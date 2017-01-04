@@ -1,5 +1,5 @@
 ---
-layout: syllabus-front
+layout: post
 title: Syllabus
 ---
 
