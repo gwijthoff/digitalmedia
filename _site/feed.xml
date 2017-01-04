@@ -1,24 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lau Siaw Young - Articles</title>
-    <description>A beautiful, fast, AMP-compliant Jekyll theme based on Tufte CSS.
+    <title>Grant Wythoff - Articles</title>
+    <description>Spring 2017 | Tue/Thu 1:10-2:25 | Location TBD
 </description>
     <link>
-    https://github.com/siawyoung/immaculate</link>
+    https://gwijthoff.github.io/digitalmedia/</link>
     
       
       <item>
-        <title>Immaculate Showcase</title>
+        <title>Digitalmedia_syllabus</title>
         
-          <description>&lt;p&gt;This is an example post showcasing the various features of &lt;a href=&quot;https://github.com/siawyoung/immaculate&quot;&gt;Immaculate&lt;/a&gt; and &lt;a href=&quot;https://github.com/edwardtufte/tufte-css&quot;&gt;Tufte CSS&lt;/a&gt;. Refer to the Markdown source of this post for a better understanding!&lt;/p&gt;
+          <description>&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;**Professor&lt;/td&gt;
+      &lt;td&gt;Grant Wythoff (&lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#103;&amp;#119;&amp;#050;&amp;#050;&amp;#057;&amp;#048;&amp;#064;&amp;#099;&amp;#111;&amp;#108;&amp;#117;&amp;#109;&amp;#098;&amp;#105;&amp;#097;&amp;#046;&amp;#101;&amp;#100;&amp;#117;&quot;&gt;&amp;#103;&amp;#119;&amp;#050;&amp;#050;&amp;#057;&amp;#048;&amp;#064;&amp;#099;&amp;#111;&amp;#108;&amp;#117;&amp;#109;&amp;#098;&amp;#105;&amp;#097;&amp;#046;&amp;#101;&amp;#100;&amp;#117;&lt;/a&gt;)**&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
 </description>
         
-        <pubDate>Wed, 30 Mar 2016 00:00:00 -0400</pubDate>
+        <pubDate>Mon, 04 Jan 2016 00:00:00 -0500</pubDate>
         <link>
-        https://github.com/siawyoung/immaculate/immaculate-showcase.html</link>
-        <guid isPermaLink="true">https://github.com/siawyoung/immaculate/immaculate-showcase.html</guid>
+        https://gwijthoff.github.io/digitalmedia//digitalmedia_syllabus.html</link>
+        <guid isPermaLink="true">https://gwijthoff.github.io/digitalmedia//digitalmedia_syllabus.html</guid>
       </item>
       
     
