@@ -1,23 +1,14 @@
-# CPLS UN3770: Introduction to New Media
-
-**Spring 2017**
-
-**[Location] | Tue / Thu, 1:10 - 2:25**
-
-* * * * * 
+---
+layout: post
+---
 
 **Professor | Grant Wythoff (<gw2290@columbia.edu>)**
 
 **Office hours by appointment | Heyman Center 304**
 
-**Course site: <http://gwijthoff.github.io/digitalmedia/>**
-
 * * * * * 
 
 [**Skip to the schedule…**](#schedule)
-
-Description
--------------
 
 Description
 ============
