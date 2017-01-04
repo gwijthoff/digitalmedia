@@ -2,12 +2,15 @@
 layout: default
 ---
 
-<article class="post">
+<article>
+
+  <h2 itemprop="name"><a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">{{ page.title }}</a></h2>
 
   <section>
     {{content}}
   </section>
 
-</article>
+    {% include footer.html %}
 
-{% include footer.html %}
+  </div>
+</article>
