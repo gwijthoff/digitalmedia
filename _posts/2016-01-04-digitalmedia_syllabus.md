@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Syllabus
 ---
 
 **Professor | Grant Wythoff (<gw2290@columbia.edu>)**
