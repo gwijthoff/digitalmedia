@@ -1,10 +1,13 @@
-title: Immaculate
+title: CPLS UN3770:\ Introduction to New Media
 description: >
-  A beautiful, fast, AMP-compliant Jekyll theme based on Tufte CSS.
+  Spring 2017\
+  Location TBD | Tue/Thu 1:10-2:25
+  Professor Grant Wythoff <gw2290@columbia.edu>
+  Office hours by appointment | Heyman Center 304
 baseurl: "/digitalmedia"
 url: "https://gwijthoff.github.io/digitalmedia/"
-paginate:	2 # The number of posts to show per page on your homepage
-name: "Lau Siaw Young"
+paginate:	1 # The number of posts to show per page on your homepage
+name: "Grant Wythoff"
 markdown: kramdown
 permalink: none
 kramdown:
