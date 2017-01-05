@@ -11,7 +11,7 @@ author: |
     Office Hours by appointment
 ---
 
-![](cc-by.png)\
+![](assets/images/cc-by.png)\
 
 *This syllabus is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).*
 

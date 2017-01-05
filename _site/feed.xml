@@ -2,32 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grant Wythoff - Articles</title>
-    <description>Spring 2017 | Tue/Thu 1:10-2:25 | Location TBD
-</description>
+    <description></description>
     <link>
     https://gwijthoff.github.io/digitalmedia/</link>
-    
-      
-      <item>
-        <title>Syllabus</title>
-        
-          <description>&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Professor&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;strong&gt;Grant Wythoff (&lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#103;&amp;#119;&amp;#050;&amp;#050;&amp;#057;&amp;#048;&amp;#064;&amp;#099;&amp;#111;&amp;#108;&amp;#117;&amp;#109;&amp;#098;&amp;#105;&amp;#097;&amp;#046;&amp;#101;&amp;#100;&amp;#117;&quot;&gt;&amp;#103;&amp;#119;&amp;#050;&amp;#050;&amp;#057;&amp;#048;&amp;#064;&amp;#099;&amp;#111;&amp;#108;&amp;#117;&amp;#109;&amp;#098;&amp;#105;&amp;#097;&amp;#046;&amp;#101;&amp;#100;&amp;#117;&lt;/a&gt;)&lt;/strong&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-</description>
-        
-        <pubDate>Mon, 04 Jan 2016 00:00:00 -0500</pubDate>
-        <link>
-        https://gwijthoff.github.io/digitalmedia//digitalmedia_syllabus.html</link>
-        <guid isPermaLink="true">https://gwijthoff.github.io/digitalmedia//digitalmedia_syllabus.html</guid>
-      </item>
-      
     
   </channel>
 </rss>
