@@ -60,10 +60,6 @@ Unit Overview
 
 John Haugeland, “Analog and Analog,” *Philosophical Topics* 12, no. 1 (Spring 1981): 213–25.
 
-{% marginnote margin1 %}
-This is a margin note.
-{% endmarginnote %}
-
 Matthew Katz, “Analog and Digital Representation,” *Minds and Machines* 18, no. 3 (September 1, 2008): 403–8.
 
 ### January 24: tinkerers 1
