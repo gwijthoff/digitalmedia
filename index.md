@@ -4,8 +4,11 @@ title: Syllabus
 ---
 
 # Introduction to Digital Media
+
 ## CPLS UN3770
+
 ### Spring 2017 | Tue/Thu 1:10-2:25 | Location TBD<
+
 ### Grant Wythoff (gw2290@columbia.edu) | Office hours by 
 
 [**Skip to the schedule…**](#schedule)
@@ -292,5 +295,3 @@ Disabilities Accommodations
 If you have been certified by Disability Services (DS) to receive accommodations, please either bring your accommodation letter from DS to your professor’s office hours to confirm your accommodation needs, or ask your liaison in GSAS to consult with your professor.  If you believe that you may have a disability that requires accommodation, please contact Disability Services at 212-854-2388 or <disability@columbia.edu>. Important: To request and receive an accommodation you must be certified by DS.
 
 <!-- pandoc -o digitalmedia_syllabus.pdf --template digsyl.latex digitalmedia_syllabus.md -->
-
-{% include footer.html %}
