@@ -1,12 +1,11 @@
 ---
 layout: syllabus-front
+title:
 ---
 
 # Introduction to Digital Media
 
 ## CPLS UN3770
-
-**********************
 
 ```
 Spring 2017
