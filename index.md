@@ -2,8 +2,6 @@
 layout: page
 ---
 
-# Introduction to Digital Media
-
 ## CPLS UN3770
 
 ```
