@@ -13,6 +13,8 @@ title: Syllabus
 
 [**Skip to the schedule…**](#schedule)
 
+**********************
+
 Description
 ============
 
