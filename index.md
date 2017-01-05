@@ -1,6 +1,6 @@
 ---
 layout: syllabus-front
-title: index
+title: Intro to Digital Media | Spring 2017
 ---
 
 # Introduction to Digital Media
