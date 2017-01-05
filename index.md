@@ -1,6 +1,7 @@
 ---
 layout: syllabus-front
 title:
+exclude_from_nav: true
 ---
 
 # Introduction to Digital Media
