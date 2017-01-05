@@ -1,6 +1,8 @@
 ---
-layout: page
+layout: syllabus-front
 ---
+
+# Introduction to Digital Media
 
 ## CPLS UN3770
 
