@@ -7,7 +7,7 @@ GEM
     ffi (1.9.10)
     hitimes (1.2.2)
     jekyll (3.1.2)
-      colorator (~> 0.1)
+      colorator (~> 1.1.0)
       jekyll-sass-converter (~> 1.0)
       jekyll-watch (~> 1.1)
       kramdown (~> 1.3)
