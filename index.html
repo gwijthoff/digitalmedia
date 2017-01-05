@@ -10,12 +10,10 @@ layout: default
   </section>
   
   <div>
-  {% if page.title == "syllabus" %}
   <article class="syllabus-front" role="article">
   <hr/>
-  {{ content }}
+  {% include syllabus.md %}
   </article>
-  {% endif %}
   </div>
 
   <nav role="navigation">
