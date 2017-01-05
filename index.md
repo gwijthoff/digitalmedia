@@ -6,11 +6,16 @@ layout: syllabus-front
 
 ## CPLS UN3770
 
-### Spring 2017 | Tue/Thu 1:10-2:25 | Location TBD
-
-### Grant Wythoff (gw2290@columbia.edu) | Office hours by appointment
-
 **********************
+
+```
+Spring 2017
+Tue/Thu 1:10-2:25
+Location TBD
+
+Grant Wythoff <gw2290@columbia.edu>
+Office hours by appointment
+```
 
 [**Skip to the schedule…**](#schedule)
 
