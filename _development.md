@@ -25,7 +25,6 @@
 - Nicole Starosielski, *The Undersea Network*
 
 
-Thank Dennis Tenen, Lev Manovich, Nick Seaver, whose syllabi and pedagogy influenced the design and content of this course.
 
 # Schedule Notes
 

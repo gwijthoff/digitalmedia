@@ -301,4 +301,9 @@ Disabilities Accommodations
 
 If you have been certified by Disability Services (DS) to receive accommodations, please either bring your accommodation letter from DS to your professor’s office hours to confirm your accommodation needs, or ask your liaison in GSAS to consult with your professor.  If you believe that you may have a disability that requires accommodation, please contact Disability Services at 212-854-2388 or <disability@columbia.edu>. Important: To request and receive an accommodation you must be certified by DS.
 
-<!-- pandoc -o digitalmedia_syllabus.pdf --template digsyl.latex digitalmedia_syllabus.md -->
+Acknowledgments
+================
+
+Thanks to Marie Hicks, Lev Manovich, Jim Brown, Dennis Tenen, Jentery Sayers, and Nick Seaver, whose syllabi and pedagogy influenced the design and content of this course.
+
+<!-- use `_md_to_pdf_header` then | pandoc -o digitalmedia_syllabus.pdf --template digsyl.latex index.md -->
