@@ -1,13 +1,11 @@
 ---
 layout: post
-title:
+title: Syllabus
 ---
 
-**Professor | Grant Wythoff (<gw2290@columbia.edu>)**
+**Professor** | **Grant Wythoff (<gw2290@columbia.edu>)**
 
-**Office hours by appointment | Heyman Center 304**
-
-* * * * * 
+**Office hours by appointment** | **Heyman Center 304**
 
 [**Skip to the schedule…**](#schedule)
 
