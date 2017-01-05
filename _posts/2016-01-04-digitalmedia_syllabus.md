@@ -20,43 +20,24 @@ Unit Overview
 --------------
 
 - **Theories**
-
     - *definitions*
-  
     - *tinkering*
-  
 - **Dreams**
-
     - *global cyberpunk*
-  
     - *afrofuturism*
-  
 - **Approaches**
-
 - **Code**
-
 - **Interfaces**
-
     - *users*
-  
     - *makers*
-  
 - **Devices**
-
     - *privacy*
-  
     - *habits*
-  
 - **Infrastructures**
-
     - *networks*
-  
     - *waste*
-  
 - **Power**
-
     - *control*
-  
     - *publics*
 
 Grade breakdown
@@ -104,15 +85,10 @@ Matthew Katz, “Analog and Digital Representation,” *Minds and Machines* 18, 
 James Gleick, *The Information: A History, A Theory, A Flood* (Vintage Books, 2012), pp. 3-12, 28-50, 78-124, 204-268 (~130p)
 
 - Prologue
-
 - 2 The Persistence of the Word (on theories of writing)
-
 - 4 To Throw the Powers of Thought Into Wheel-Work (on Babbage)
-
 - 7 Information Theory
-
 - 8 The Informational Turn
-
 - 13 Information is Physical (if time…)
 
 ### January 26: tinkerers 2
@@ -134,9 +110,7 @@ Xiao Liu, “Magic Waves, Extrasensory Powers, and Nonstop Instantaneity: Imagin
 Eden Medina, *Cybernetic Revolutionaries: Technology and Politics in Allende’s Chile* (Cambridge: MIT Press, 2014), p. 1-14, 95-140
 
 - Prologue
-
 - Introduction: Political and Technological Visions
-
 - 4 Constructing the Liberty Machine
 
 ### February 7: afrofuturism 1
@@ -150,7 +124,6 @@ Delany, *Stars in My Pocket Like Grains of Sand* (Middletown, CT: Wesleyan Unive
 Ytasha L. Womack, *Afrofuturism: The World of Black Sci-Fi and Fantasy Culture* (Chicago: Chicago Review Press, 2013), p. 3-24, 39-50
 
 - Evolution of a Space Cadet
-
 - Project Imagination
 
 Mark Dery, “Black to the Future: Interviews with Samuel R. Delany, Greg Tate, and Tricia Rose,” in *Flame Wars: The Discourse of Cyberculture*, ed. Mark Dery (Durham, NC: Duke University Press, 1994), 179–222.
@@ -200,7 +173,6 @@ Bruce Sterling, *Shaping Things* (Cambridge: MIT Press, 2005).
 Anne Friedberg, *The Virtual Window: From Alberti to Microsoft* (Cambridge: MIT Press, 2006), p. 1-24, 149-190.
 
 - Introduction
-
 - 4 The Screen
 
 ### March 7: makers 1
@@ -256,9 +228,7 @@ Wendy Chun, *Updating to Remain the Same,* (Cambridge: MIT Press, 2016), Introdu
 Nicole Starosielski, *The Undersea Network,* (Duke University Press, 2015), pp. 1-25, 94-169.
 
 - "Introduction: Against Flow"
-
 - 3 "Gateway: From Cable Colony to Network Operations Center"
-
 - 4 "Pressure Point: Turbulent Ecologies of the Cable Landing"
 
 Project website at <http://surfacing.in/>
@@ -272,9 +242,7 @@ Christian Sandvig, "Connection at Ewiiaapaayp Mountain: Indigenous Internet Infr
 Jennifer Gabrys, *Digital Rubbish: A Natural History of Electronics,* (Univ. of Michigan Press, 2011), p. 1-44, 74-100
 
 - Introduction: A Natural History of Electronics
-
 - 1 Silicon Elephants: The Transformative Materiality of Microchips
-
 - 3 Shipping and Receiving: Circuits of Disposal and the 'Social Death' of Electronics
 
 ### April 13: waste 2
@@ -294,9 +262,7 @@ Andrew J. Hawkins, "E-Waste Empire," *The Verge,* June 22, 2016, <http://www.the
 Bernard Harcourt, *Exposed: Desire and Disobedience in the Digital Age* (Cambridge: Harvard University Press, 2015), p. 1-28, 217-250.
 
 - The Expository Society
-
 - 8 The Mortification of the Self
-
 - 9 The Steel Mesh
 
 ### April 20: control 2
