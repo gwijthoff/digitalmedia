@@ -1,5 +1,6 @@
 ---
 layout: syllabus-front
+title: Home
 ---
 
 # Introduction to Digital Media
