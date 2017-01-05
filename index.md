@@ -1,5 +1,5 @@
 ---
-layout: syllabus-front
+layout: page
 ---
 
 # Introduction to Digital Media
