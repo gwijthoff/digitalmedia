@@ -16,14 +16,35 @@
 - Generative poetry exercise?
 - Keybase to secure your identity using PGP? @sarahjeong for an example
 
-# Readings
+# Resources
 
-### To Buy
+[History of the Internet](http://www.lonja.de/the-history-of-the-internet/) (brief 8min video in PICOL icons)
 
-- James Gleick, *The Information: A History, A Theory, A Flood*
-- Dominic Pettman, *Infinite Distraction*
-- Nicole Starosielski, *The Undersea Network*
+[How to See Through the Cloud](https://stml.makes.org/thimble/how-to-see-through-the-cloud) -- using traceroute to map your place in the Internet infrastructure
 
+Computer History Museum's [oral history archives](https://www.youtube.com/playlist?list=PLQsxaNhYv8daKdGi7s85ubzbWdTB36-_q)
+
+# Research
+
+## Films
+
+*Lo and Behold,* Werner Herzog, Netflix
+
+*Silicon Valley* PBS docmentary, 2012 [sped up version…](https://www.youtube.com/watch?v=dQvRK60U8YM)
+
+*Top Secret Rosies: The Female "Computers" of WWII* (2010, PBS) full length, youtube rental
+
+[*The Computers: The Remarkable Story of the ENIAC Programmers*](https://vimeo.com/ondemand/eniac6) (20 min, online for rental)
+
+*Codebreaker* hybrid documentary and drama, crowdfunded
+
+*The Imitation Game* (2014) Netflix
+
+*The Secret Rules of Modern Living: Algorithms* Netflix documentary
+
+*The Bletchley Circle* TV series on women computers, on Netflix
+
+[Machine that Changed the World](https://www.youtube.com/channel/UCh8dvlssq89psetRW2GBeAA) 5-part PBS series
 
 
 # Schedule Notes
