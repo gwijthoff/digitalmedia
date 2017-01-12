@@ -1,7 +1,46 @@
+
+Unit Overview
+--------------
+
+- **Theories**
+    - *definitions*
+    - *tinkering*
+- **Dreams**
+    - *global cyberpunk*
+    - *afrofuturism*
+- **Approaches**
+- **Code**
+- **Interfaces**
+    - *users*
+    - *makers*
+- **Devices**
+    - *privacy*
+    - *habits*
+- **Infrastructures**
+    - *networks*
+    - *waste*
+- **Power**
+    - *control*
+    - *publics*
+
+Three elements:
+
+- data detox throughout the class
+  - https://myshadow.org/detox
+  - http://femtechnet.org/csov/lock-down-your-digital-identity/
+  - Keybase for PGP
+- imaginary device midterm
+- device supply/use mapping final
+
 # Exercises
 
-- [Data Detox](https://theglassroomnyc.org/5steps/) or https://myshadow.org/detox
-- disconnection / detox / digital sabbath
+## throughout the semester
+
+- [Data Detox](https://theglassroomnyc.org/5steps/) or https://myshadow.org/detox, alongside a disconnection/detox/digital sabbath
+- Locking down your digital identity / digital hygene: http://femtechnet.org/csov/lock-down-your-digital-identity/ and using PGP
+
+## possible others
+
 - command line
   - http://write.flossmanuals.net/command-line/introduction/
 - markdown / document formatting
@@ -9,11 +48,13 @@
   - Jason Farman's class
   - Amelia's device teardown
   - CO grad student
+  - @hockendougal https://supplystudies.com/syllabus/
+  - Natalie Ceceire's looking into this
 - [Me and My Shadow](https://myshadow.org/)
 - Mozilla resources
 - play w/ [classic OS's](http://arstechnica.com/information-technology/2014/01/7-classic-versions-of-windows-and-mac-os-you-can-run-in-a-browser/) in web emulators
 - [Buxton Collection](http://research.microsoft.com/en-us/um/people/bibuxton/buxtoncollection/browse.aspx) of historical media devices
-- Generative poetry exercise?
+- Generative poetry exercise in *Exploratory Programming*
 - Keybase to secure your identity using PGP? @sarahjeong for an example
 
 # Resources
@@ -24,7 +65,40 @@
 
 Computer History Museum's [oral history archives](https://www.youtube.com/playlist?list=PLQsxaNhYv8daKdGi7s85ubzbWdTB36-_q)
 
-# Research
+# Assignments
+
+## Re-design midterm: imagine a speculative device
+
+"We asked academics to collaborate with science fiction writers to develop short stories that explored these ideas and the real impact of collective intelligence, of human lives embedded in deeper, faster networks, of interactions with more powerful and uncanny machine intelligences. We hope that by developing these ideas in stories we provide alternative routes into our academics' ambitious and intriguing research, and shine some light on possible roads forward, as we attempt to imagine and plan for a strange future." See more at: http://thelongandshort.org/forecasts
+
+Nick Knouf's "Re-design” assignment: "One of the aims of the course is to highlight the interrelationships between theory and practice. To give you an opportunity to explore this in depth, we will construct a “re-design” of an existing media system. What do I mean by this? Consider a medium like radio. As we will learn in the course, there is nothing inherent to radio that requires it to be a broadcast medium (from one central location to many listeners); rather, it could just as easily have been a medium that allows many people to broadcast to many listeners, and vice versa. What would be the implications of this? How would the history of radio as a medium been different? Your assignment will consider a different example: a tweak to the structure of the Internet, the ways text messages work, the mechanics of a telephone call, etc. You will situate this amongst the readings read to this point, using the texts to help imagine the implications of your re-design. The final form of this assignment should be a paper of 5 to 7 pages, properly referenced, and with additional media as necessary or desired. You will additionally informally present your re-design to the course (plan on approximately 5 minutes for the presentation and questions from the class)."  http://zeitkunst.org/sites/default/files/teaching/CAMS218_SP15_TheoriesOfMediaSyllabus.pdf
+
+## Final Project: device narrative / supply chain tracking
+
+(write to Miriam Posner on her "device narrative" assignment for thoughts and updates since 2014. Is she still writing on tech supply chains?)
+
+Express the composition and manufacture of your device using a lexicon of symbols: Otto Neurath's isotype, design structure matrices (DSMs -- *not* diagnostic and statistical manual of mental disorders!), or photogrammetry
+
+Create a supply chain map using http://www.sourcemap.com/
+
+http://storyofstuff.org/movies/story-of-electronics/
+
+Evidently you can buy a rare earth mine on the Internet. Anyone looking to make a smartphone from scratch start here: https://minelistings.com/commodity/rare-earth-elements-mines-for-sale/
+
+Fairphone: "We’ve created the world’s first ethical, modular smartphone. You shouldn’t have to choose between a great phone and a fair supply chain."  https://www.fairphone.com/en/our-goals/fair-materials/responsible-sourcing/ and supply chain map:  http://open.sourcemap.com/maps/57bd640851c05c0a5b5a8be1
+
+- Gerd Arntz's ISOTYPE alphabet. "Gerd Arntz drew over 4,000 ISOTYPE symbols which were reproduced by linoleum block prints. His direct and clean graphic style helped set the tone for future symbols in the coming decades. When Otto and Marie [Neurath] fled to England in 1940, Arntz stayed in The Hague and applied his style to symbols for the Dutch Foundation for Statistics." http://www.gerdarntz.org/isotype
+- Can use PICOL (pictorial icon language) as a font: http://picol.org/picol_icon_font
+- "Design structure matrix (DSM) is a straightforward and flexible modeling technique that can be used for designing, developing, and managing complex systems. DSM offers network modeling tools that represent the elements of a system and their interactions, thereby highlighting the system’s architecture (or designed structure). Its advantages include compact format, visual nature, intuitive representation, powerful analytical capacity, and flexibility. Used primarily so far in the area of engineering management, DSM is increasingly being applied to complex issues in health care management, financial systems, public policy, natural sciences, and social systems. This book offers a clear and concise explanation of DSM methods for practitioners and researchers." https://mitpress.mit.edu/books/design-structure-matrix-methods-and-applications
+- 123D Catch app for photogrammetry: "You feed in some pictures from your iPhone and they get uploaded to the cloud where they’re turned back into a textured 3D model you can explore on your phone or download on your computer. 123D Catch (henceforth also refered to as “Catch”) is part of Autodesk’s consumer-line of 3D technologies which include a product for 3D modeling on the iPad and producing 3D prints." On open source, less black-boxed alternatives: http://wedidstuff.heavyimage.com/index.php/2013/07/12/open-source-photogrammetry-workflow/
+
+Hybrid paper and digital/"other media" approach?
+
+Miriam Posner's reflection on her "device narrative" final project:  http://miriamposner.com/blog/reflections-on-my-digital-materiality-and-labor-class/
+
+http://www.theglobalist.com/a-brief-history-of-supply-chains/
+
+# Resources
 
 ## Films
 
@@ -54,6 +128,12 @@ Computer History Museum's [oral history archives](https://www.youtube.com/playli
 ### January 17: introductions
 
 ### January 19: definitions
+
+### further reading: definitions
+
+Warren Weaver, “Some Recent Contributions to the Mathematical Theory of Communication,” in *The Mathematical Theory of Communication* (Urbana and Chicago: University of Illinois Press, 1964 [1949]), 1–28.
+
+Chapter from Robert Kline's *The Cybernetics Moment*?
 
 ### January 24: tinkerers 1
 
@@ -141,6 +221,18 @@ Ted Nelson, “Complex Information Processing: A File Structure for the Complex,
 
 “As We May Think” Vannevar Bush (1945)
 
+Nick Dyer-Witheford, *Cyber-Proletariat: Global Labour in the Digital Vortex* (London: Pluto Press, 2015).
+
+Ngai Pun and Jenny Chan, “The Spatial Politics of Labor in China: Life, Labor, and a New Generation of Migrant Workers,” *South Atlantic Quarterly* 112, no. 1 (December 21, 2013): 179–90.
+
+Jack Linchuan Qiu, Melissa Gregg, and Kate Crawford, “Circuits of Labour: A Labour Theory of the iPhone Era,” *tripleC: Communication, Capitalism & Critique. Open Access Journal for a Global Sustainable Information Society* 12, no. 2 (September 1, 2014): 564–81.
+
+Jack Linchuan Qiu, *Goodbye iSlave: A Manifesto for Digital Abolition,* (Urbana: University of Illinois Press, 2016).
+
+Jack Linchuan Qiu, *Working-Class Network Society: Communication Technology and the Information Have-Less in Urban China* (Cambridge, Mass: The MIT Press, 2009).
+
+Pun Ngai et al., “Worker–intellectual Unity: Trans-Border Sociological Intervention in Foxconn,” *Current Sociology* 62, no. 2 (March 1, 2014): 209–22.
+
 **********************
 
 **SPRING BREAK: March 13-17**
@@ -161,9 +253,13 @@ Readings announced as events unfold.
 
 ### March 28: habits 1
 
+Return to ideas in Jack Qiu's iSlave? Are both workers and users slaves?
+
 ### March 30: habits 2
 
 ### further reading: devices
+
+Finn Brunton and Helen Nissenbaum, *Obfuscation: A User’s Guide for Privacy and Protest*, (The MIT Press, 2016).
 
 Judy Wajcman, *Pressed for Time: The Acceleration of Life in Digital Capitalism,* Introduction; Working With Constant Connectivity; Time to Talk: Intimacy Through Technology (pp. 1-13, 87-110, 137-162)
 
