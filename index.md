@@ -27,30 +27,6 @@ Over the past decade, digital media have made strange the very fabric of our con
 
 This class will introduce students to the history and theory of digital media. We will begin by examining the historical roots of the concept of "information," and then proceed along a "stack" of topics in digital culture: code, interface, device, infrastructure, and power.  Each of these concepts will be explored through a comparative framework, using hands-on exercises and readings from across the disciplines, including the philosophy of computation, history of technology, cultural studies, science fiction, and media theory.  We will think historically (how have media been experienced as "new" at different moments in time?), theoretically (how exactly do we address "medium" as an object of study), and tactically (how can we use our local experience of digital devices as a framework for thinking global networks?).
 
-Unit Overview
---------------
-
-- **Theories**
-    - *definitions*
-    - *tinkering*
-- **Dreams**
-    - *global cyberpunk*
-    - *afrofuturism*
-- **Approaches**
-- **Code**
-- **Interfaces**
-    - *users*
-    - *makers*
-- **Devices**
-    - *privacy*
-    - *habits*
-- **Infrastructures**
-    - *networks*
-    - *waste*
-- **Power**
-    - *control*
-    - *publics*
-
 # <a name="schedule"></a>Schedule
 
 ## Theories
@@ -67,14 +43,11 @@ Matthew Katz, “Analog and Digital Representation,” *Minds and Machines* 18, 
 
 **_(First writing exercise due)_**
 
-James Gleick, *The Information: A History, A Theory, A Flood* (Vintage Books, 2012), pp. 3-12, 28-50, 78-124, 204-268 (~130p)
+James Gleick, *The Information: A History, A Theory, A Flood* (Vintage Books, 2012), pp. 3-12, 204-268
 
 - Prologue
-- 2 The Persistence of the Word (on theories of writing)
-- 4 To Throw the Powers of Thought Into Wheel-Work (on Babbage)
 - 7 Information Theory
 - 8 The Informational Turn
-- 13 Information is Physical (if time…)
 
 ### January 26: tinkerers 2
 
@@ -222,6 +195,8 @@ Project website at <http://surfacing.in/>
 
 Christian Sandvig, "Connection at Ewiiaapaayp Mountain: Indigenous Internet Infrastructure" in *Race After the Internet,* ed. Lisa Nakamura and Peter Chow-White (Routledge, 2011), p. 168-200.
 
+Neal Stephenson, “Mother Earth Mother Board,” Wired (December 1996), <https://www.wired.com/1996/12/ffglass/>.
+
 ### April 11: waste 1
 
 Jennifer Gabrys, *Digital Rubbish: A Natural History of Electronics,* (Univ. of Michigan Press, 2011), p. 1-44, 74-100
@@ -304,6 +279,6 @@ If you have been certified by Disability Services (DS) to receive accommodations
 Acknowledgments
 ================
 
-Thanks to Marie Hicks, Lev Manovich, Jim Brown, Dennis Tenen, Jentery Sayers, and Nick Seaver, whose syllabi and pedagogy influenced the design and content of this course.
+Thanks to Marie Hicks, Lev Manovich, Miriam Posner, Jim Brown, Dennis Tenen, Jentery Sayers, and Nick Seaver, whose syllabi and pedagogy influenced the design and content of this course.
 
 <!-- use `_md_to_pdf_header` then | pandoc -o digitalmedia_syllabus.pdf --template digsyl.latex index.md -->
