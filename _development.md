@@ -69,24 +69,18 @@ Computer History Museum's [oral history archives](https://www.youtube.com/playli
 
 ## Re-design midterm: imagine a speculative device
 
-"We asked academics to collaborate with science fiction writers to develop short stories that explored these ideas and the real impact of collective intelligence, of human lives embedded in deeper, faster networks, of interactions with more powerful and uncanny machine intelligences. We hope that by developing these ideas in stories we provide alternative routes into our academics' ambitious and intriguing research, and shine some light on possible roads forward, as we attempt to imagine and plan for a strange future." See more at: http://thelongandshort.org/forecasts
+due March 10?
 
-Nick Knouf's "Re-design” assignment: "One of the aims of the course is to highlight the interrelationships between theory and practice. To give you an opportunity to explore this in depth, we will construct a “re-design” of an existing media system. What do I mean by this? Consider a medium like radio. As we will learn in the course, there is nothing inherent to radio that requires it to be a broadcast medium (from one central location to many listeners); rather, it could just as easily have been a medium that allows many people to broadcast to many listeners, and vice versa. What would be the implications of this? How would the history of radio as a medium been different? Your assignment will consider a different example: a tweak to the structure of the Internet, the ways text messages work, the mechanics of a telephone call, etc. You will situate this amongst the readings read to this point, using the texts to help imagine the implications of your re-design. The final form of this assignment should be a paper of 5 to 7 pages, properly referenced, and with additional media as necessary or desired. You will additionally informally present your re-design to the course (plan on approximately 5 minutes for the presentation and questions from the class)."  http://zeitkunst.org/sites/default/files/teaching/CAMS218_SP15_TheoriesOfMediaSyllabus.pdf
+- paper prototyping… see Stuart Candy's related "reverse archaeology" assignment, to "excavate" a device from the future https://www.researchgate.net/publication/305333152_Time_Machine_Reverse_Archaeology
 
 ## Final Project: device narrative / supply chain tracking
 
-(write to Miriam Posner on her "device narrative" assignment for thoughts and updates since 2014. Is she still writing on tech supply chains?)
+http://zeitkunst.org/sites/default/files/teaching/CAMS218_SP15_TheoriesOfMediaSyllabus.pdf
 
-Express the composition and manufacture of your device using a lexicon of symbols: Otto Neurath's isotype, design structure matrices (DSMs -- *not* diagnostic and statistical manual of mental disorders!), or photogrammetry
-
-Create a supply chain map using http://www.sourcemap.com/
-
-http://storyofstuff.org/movies/story-of-electronics/
-
-Evidently you can buy a rare earth mine on the Internet. Anyone looking to make a smartphone from scratch start here: https://minelistings.com/commodity/rare-earth-elements-mines-for-sale/
-
-Fairphone: "We’ve created the world’s first ethical, modular smartphone. You shouldn’t have to choose between a great phone and a fair supply chain."  https://www.fairphone.com/en/our-goals/fair-materials/responsible-sourcing/ and supply chain map:  http://open.sourcemap.com/maps/57bd640851c05c0a5b5a8be1
-
+- write to Miriam Posner on her "device narrative" assignment for thoughts and updates since 2014. Is she still writing on tech supply chains?
+- http://storyofstuff.org/movies/story-of-electronics/
+- Evidently you can buy a rare earth mine on the Internet. Anyone looking to make a smartphone from scratch start here: https://minelistings.com/commodity/rare-earth-elements-mines-for-sale/
+- Fairphone: "We’ve created the world’s first ethical, modular smartphone. You shouldn’t have to choose between a great phone and a fair supply chain."  https://www.fairphone.com/en/our-goals/fair-materials/responsible-sourcing/ and supply chain map:  http://open.sourcemap.com/maps/57bd640851c05c0a5b5a8be1
 - Gerd Arntz's ISOTYPE alphabet. "Gerd Arntz drew over 4,000 ISOTYPE symbols which were reproduced by linoleum block prints. His direct and clean graphic style helped set the tone for future symbols in the coming decades. When Otto and Marie [Neurath] fled to England in 1940, Arntz stayed in The Hague and applied his style to symbols for the Dutch Foundation for Statistics." http://www.gerdarntz.org/isotype
 - Can use PICOL (pictorial icon language) as a font: http://picol.org/picol_icon_font
 - "Design structure matrix (DSM) is a straightforward and flexible modeling technique that can be used for designing, developing, and managing complex systems. DSM offers network modeling tools that represent the elements of a system and their interactions, thereby highlighting the system’s architecture (or designed structure). Its advantages include compact format, visual nature, intuitive representation, powerful analytical capacity, and flexibility. Used primarily so far in the area of engineering management, DSM is increasingly being applied to complex issues in health care management, financial systems, public policy, natural sciences, and social systems. This book offers a clear and concise explanation of DSM methods for practitioners and researchers." https://mitpress.mit.edu/books/design-structure-matrix-methods-and-applications
@@ -121,7 +115,7 @@ http://www.theglobalist.com/a-brief-history-of-supply-chains/
 [Machine that Changed the World](https://www.youtube.com/channel/UCh8dvlssq89psetRW2GBeAA) 5-part PBS series
 
 
-# Schedule Notes
+# Class Planning
 
 ## Theories
 
@@ -129,21 +123,23 @@ http://www.theglobalist.com/a-brief-history-of-supply-chains/
 
 ### January 19: definitions
 
-### further reading: definitions
+John Haugeland, “Analog and Analog,” *Philosophical Topics* 12, no. 1 (Spring 1981): 213–25.
 
-Warren Weaver, “Some Recent Contributions to the Mathematical Theory of Communication,” in *The Mathematical Theory of Communication* (Urbana and Chicago: University of Illinois Press, 1964 [1949]), 1–28.
+Matthew Katz, “Analog and Digital Representation,” *Minds and Machines* 18, no. 3 (September 1, 2008): 403–8.
 
-Chapter from Robert Kline's *The Cybernetics Moment*?
+Luciano Floridi, “Against Digital Ontology,” Synthese 168, no. 1 (2009): 151–78. [comments on Haugeland's "Analog and Analog"]
+
+Ralph W. Gerard, “Some of the Problems Concerning Digital Notions in the Central Nervous System,” in *Cybernetics: The Macy Conferences 1946-1953. The Complete Transactions,* ed. Claus Pias (Zürich: Diaphanes, 2016), 171–202.
 
 ### January 24: tinkerers 1
-
-**_(First writing exercise due)_**
 
 ### January 26: tinkerers 2
 
 ### further reading: theories
 
 Claude Shannon, "A Mathematical Theory of Communication," *Bell System Technical Journal* 27 (July and October, 1948): pp. 379–423; 623-666.
+
+Warren Weaver, “Some Recent Contributions to the Mathematical Theory of Communication,” in *The Mathematical Theory of Communication* (Urbana and Chicago: University of Illinois Press, 1964 [1949]), 1–28.
 
 John Durham Peters, “Information: Notes Toward a Critical History”
 
@@ -152,8 +148,6 @@ Geoffrey Nunberg, “Farewell to the Information Age”
 Daniel Rosenberg, “Data Before the Fact”
 
 OED definitions for digital and analogue
-
-Luciano Floridi, “Against Digital Ontology,” Synthese 168, no. 1 (2009): 151–78. [comments on Haugeland's "Analog and Analog"]
 
 Lev Manovich, *The Language of New Media*
 
