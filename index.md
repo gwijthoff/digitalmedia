@@ -27,6 +27,72 @@ Over the past decade, digital media have made strange the very fabric of our con
 
 This class will introduce students to the history and theory of digital media. We will begin by examining the historical roots of the concept of "information," and then proceed along a "stack" of topics in digital culture: code, interface, device, infrastructure, and power.  Each of these concepts will be explored through a comparative framework, using hands-on exercises and readings from across the disciplines, including the philosophy of computation, history of technology, cultural studies, science fiction, and media theory.  We will think historically (how have media been experienced as "new" at different moments in time?), theoretically (how exactly do we address "medium" as an object of study), and tactically (how can we use our local experience of digital devices as a framework for thinking global networks?).
 
+Throughout the semester, in-class "exercises" will link the theory we've encountered in our readings to everyday practice, including a "[data detox](https://myshadow.org/detox)" designed by the Tactical Technology Collective, FemTechNet's ["Locking Down Your Digital Identity"](http://femtechnet.org/csov/lock-down-your-digital-identity/), and Pretty Good Privacy (PGP) with [Keybase](https://keybase.io/).
+
+Grade breakdown
+=================
+
+**20% participation**
+
+The importance of the works under discussion lies not in the works themselves, but rather in their interrelationship with our discussions and other media that you and I encounter in our daily lives. This means that class participation is vital to the success of this course. Simply attending class will not be enough to earn full participation credit. Instead, you must be an active participant, someone who comes prepared and engages with all aspects of the class.
+
+**30% weekly posts**
+
+Each week, students will post a brief update (~300 words) to the CourseWorks blog by 7:00am on Tuesday.  These posts can take the form of, among other things, a) an explanation, questioning, or complication of the week's readings, b) an interesting document or resource that you've found related to them, or c) an update on the progress of your midterm or final project.  This is simply a means of checking in with one another as we work through the ideas of the course.
+
+**25% "Re-design" assignment**
+
+One of the aims of this course is to explore the relationship between theory and practice. To this end, you will construct a "re-design" of an existing media system, due March 9.  These interventions can range from micro-level (e.g. proposing a particular tweak to the infrastructure of the Internet and tracing its consequences) to whole-cloth (e.g. envisioning an alternate peer-to-peer messaging system). You will situate this re-design amongst the readings read to this point, using the texts to help imagine the implications of your re-design.
+
+The final form of this assignment should be a paper of 5 to 7 pages, properly referenced, and with additional media as necessary or desired.  Virtually any medium could work: paper prototypes, clay, painting, video, etc. You will additionally give an informal presentation of your re-design to the class (plan on approximately 5 minutes for the presentation and questions from the class).
+
+You will choose your re-design in discussion with me two weeks before the assignment is due (i.e., by Feb 23rd). More details on this project will follow. For inspiration, see:
+
+- Anthony Dunne and Fiona Raby, [*Speculative Everything: Design, Fiction, and Social Dreaming*](https://mitpress.mit.edu/books/speculative-everything), (Cambridge: MIT Press, 2013).
+- "Forecasts" published by [*The Long + Short*](http://thelongandshort.org/forecasts) magazine
+
+**25% final project**
+
+For your final project, you will select a specific digital device and trace the lifecycle of its manufacture, use, re-use, and disposal.  This is a very big task.  A single smartphone, for instance, contains over two hundred chemical compounds, and the scale of its production truly global: from rare-earth metal mines in Baotou, to data centers in Iowa, to grey markets in Jakarta, and electronics scrap yards in Delhi.  So, there are many different methods for going about this, many different pieces of the puzzle you can choose to focus on, and no two final projects will look alike. Options include any or a combination of the following:
+
+- Create a supply chain map for your device using [Sourcemap](http://www.sourcemap.com/).
+- Express the composition of your device using a symbol system like Otto Neurath's [Isotype](http://www.gerdarntz.org/isotype) from the 1920s, a font called the Pictorial Communication Language ([PICOL](http://picol.org/picol_icon_font)), or a [design structure matrix](https://mitpress.mit.edu/books/design-structure-matrix-methods-and-applications).
+- Photogrammetry using the [123D Catch](http://www.123dapp.com/catch) app, which allows you to upload photos from your smartphone to the cloud, where they're transformed into a textured 3D model.
+
+In addition to the above, you will write a paper of around 10 pages that situates your artifact within the contexts discussed in class. The paper should have a clear argument supported by evidence. I expect you to draw from the readings we considered, as well as secondary research from sources we did not cover.
+
+I ask that you submit a brief proposal of your project to me in class on April 18.  The final project is due May 8.  You will also present on your artifact during the final two class sessions for around 10 minutes.
+
+Summary of assignment due dates
+================================
+
+- **7am Tuesdays:** weekly post
+- **March 9:** Re-design paper and presentation
+- **April 18:** final project proposal
+- **May 8:** final project due
+
+Administrivia
+==============
+
+Weekly attendance in class is expected. If you must be absent from a session for a serious reason, then you should contact me before the missed class and explain why you will not be in attendance. Cases of continuous, unexplained absence will result in a penalty to your grade or your ineligibility to complete the course. Attendance and active participation in discussions are part of fulfilling the course requirements. I will notify an advising dean if you have three or more unwarranted absences.  No extensions will be given except in extreme (and verifiable) circumstances. These circumstances include reasons of health and extenuating circumstances, such as death of a family member.
+
+Laptop policy
+---------------
+
+Because we will be conducting exercises in class, you are asked to bring your laptop to every session.  Be sure to practice good screen etiquette: keep it to the side and don't stare too long.
+
+Academic integrity
+---------------------
+
+Columbia's intellectual community relies on academic integrity and responsibility as the cornerstone of its work. Graduate students are expected to exhibit the highest level of personal and academic honesty as they engage in scholarly discourse and research. In practical terms, you must be responsible for the full and accurate attribution of the ideas of others in all of your research papers and projects; you must be honest when taking your examinations; you must always submit your own work and not that of another student, scholar, or internet source. Graduate students are responsible for knowing and correctly utilizing referencing and bibliographical guidelines. When in doubt, consult your professor. Citation and plagiarism-prevention resources can be found at the GSAS page on Academic Integrity and Responsible Conduct of Research (<http://gsas.columbia.edu/academic-integrity>).
+
+Failure to observe these rules of conduct will have serious academic consequences, up to and including dismissal from the university. If a faculty member suspects a breach of academic honesty, appropriate investigative and disciplinary action will be taken following Dean's Discipline procedures (<http://gsas.columbia.edu/content/disciplinary-procedures>).
+
+Disabilities accommodations
+-----------------------------
+
+If you have been certified by Disability Services (DS) to receive accommodations, please either bring your accommodation letter from DS to your professor’s office hours to confirm your accommodation needs, or ask your liaison in GSAS to consult with your professor.  If you believe that you may have a disability that requires accommodation, please contact Disability Services at 212-854-2388 or <disability@columbia.edu>. Important: To request and receive an accommodation you must be certified by DS.
+
 # <a name="schedule"></a>Schedule
 
 ## Theories
@@ -35,18 +101,17 @@ This class will introduce students to the history and theory of digital media. W
 
 ### January 19: definitions
 
-John Haugeland, “Analog and Analog,” *Philosophical Topics* 12, no. 1 (Spring 1981): 213–25.
+Ronald R. Kline, *The Cybernetics Moment: Or Why We Call Our Age the Information Age*, (Baltimore: Johns Hopkins University Press, 2015), p. 1-36
 
-Matthew Katz, “Analog and Digital Representation,” *Minds and Machines* 18, no. 3 (September 1, 2008): 403–8.
+- Introduction
+- 1 War and Information Theory
 
 ### January 24: tinkerers 1
 
-**_(First writing exercise due)_**
-
-James Gleick, *The Information: A History, A Theory, A Flood* (Vintage Books, 2012), pp. 3-12, 204-268
+James Gleick, *The Information: A History, A Theory, A Flood* (Vintage Books, 2012), pp. 3-12, 78-124, 233-268
 
 - Prologue
-- 7 Information Theory
+- 4 To Throw the Powers of Thought into Wheel-Work
 - 8 The Informational Turn
 
 ### January 26: tinkerers 2
@@ -63,6 +128,8 @@ William Gibson, *Neuromancer* (Ace Books, 1984), Part Two: The Shopping Expediti
 
 Xiao Liu, “Magic Waves, Extrasensory Powers, and Nonstop Instantaneity: Imagining the Digital beyond Digits,” *Grey Room* 63 (Spring 2016): 42–69.
 
+**Exercise:** Data Detox 1: Discovery
+
 ### February 2: global cyberpunk 2
 
 Eden Medina, *Cybernetic Revolutionaries: Technology and Politics in Allende’s Chile* (Cambridge: MIT Press, 2014), p. 1-14, 95-140
@@ -73,9 +140,9 @@ Eden Medina, *Cybernetic Revolutionaries: Technology and Politics in Allende’s
 
 ### February 7: afrofuturism 1
 
-**_(Second writing exercise due)_**
-
 Delany, *Stars in My Pocket Like Grains of Sand* (Middletown, CT: Wesleyan University Press, 2004 [1984]), selections.
+
+**Exercise:** Data Detox 2: Being Social
 
 ### February 9: afrofuturism 2
 
@@ -94,6 +161,8 @@ Mark Dery, “Black to the Future: Interviews with Samuel R. Delany, Greg Tate, 
 
 John Durham Peters, "Understanding Media," *The Marvelous Clouds: Toward a Philosophy of Elemental Media* (University of Chicago Press, 2016), p. 13-52.
 
+**Exercise:** Data Detox 3: Searching, Surfing, Shopping
+
 ### February 16
 
 Wendy Hui Kyong Chun, "Someone Said New Media," *New Media / Old Media: A History and Theory Reader,* 2nd ed. (Routledge, 2016)
@@ -108,6 +177,8 @@ N. Katherine Hayles, “Print Is Flat, Code Is Deep: The Importance of Media-Spe
 
 Wendy Hui Kyong Chun, “On ‘Sourcery,’ or Code as Fetish,” *Configurations* 16, no. 3 (Fall 2008): 299–324.
 
+**Exercise:** Data Detox 4: Connecting
+
 ### February 23
 
 Adrian Mackenzie, “The Problem of Computer Code: Leviathan or Common Power?” (2003)
@@ -120,11 +191,11 @@ Nick Montfort et al., *10 PRINT CHR$(205.5+RND(1)); : GOTO 10* (Cambridge: MIT P
 
 ### February 28: users 1
 
-**_(Third writing exercise due)_**
-
 Don Norman, “The Psychopathology of Everyday Things” in *The Design of Everyday Things* (Basic Books, 2013 [1988]), pp. 1-36.
 
 Bruce Sterling, *Shaping Things* (Cambridge: MIT Press, 2005).
+
+**Exercise:** Data Detox 5: Making Choices
 
 ### March 2: users 2
 
@@ -139,9 +210,11 @@ Nakamura, Lisa. 2014. “Indigenous Circuits: Navajo Women and the Racialization
 
 Steven J. Jackson, “Rethinking Repair,” in *Media Technologies: Essays on Communication, Materiality, and Society* (Cambridge: MIT Press, 2014), 221–39.
 
+**Exercise:** Data Detox 6: Who Do They Think You Are?
+
 ### March 9: makers 2
 
-**_(MIDTERM DUE)_**
+**_(Re-design assignment due)_**
 
 Debbie Chachra, "Why I am Not a Maker," *The Atlantic,* Jan 23, 2015, <http://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/>.
 
@@ -163,6 +236,8 @@ An Xiao Mina, "'Created' in China: Shenzhen is Making Hardware Like Silicon Vall
 
 Readings announced as events unfold.
 
+**Exercise:** Data Detox 7: Creating a New You
+
 ### March 23: privacy 2
 
 Readings announced as events unfold.
@@ -170,6 +245,8 @@ Readings announced as events unfold.
 ### March 28: habits 1
 
 Dominic Pettman, *Infinite Distraction* (Polity, 2015).
+
+**Exercise:** Data Detox 8: What Next?
 
 ### March 30: habits 2
 
@@ -181,8 +258,6 @@ Wendy Chun, *Updating to Remain the Same,* (Cambridge: MIT Press, 2016), Introdu
 
 ### April 4: networks 1
 
-**_(Fourth writing exercise due)_**
-
 Nicole Starosielski, *The Undersea Network,* (Duke University Press, 2015), pp. 1-25, 94-169.
 
 - "Introduction: Against Flow"
@@ -190,6 +265,8 @@ Nicole Starosielski, *The Undersea Network,* (Duke University Press, 2015), pp. 
 - 4 "Pressure Point: Turbulent Ecologies of the Cable Landing"
 
 Project website at <http://surfacing.in/>
+
+**Exercise:** FemTechNet's ["Locking Down Your Digital Identity"](http://femtechnet.org/csov/lock-down-your-digital-identity/)
 
 ### April 6: networks 2
 
@@ -205,6 +282,8 @@ Jennifer Gabrys, *Digital Rubbish: A Natural History of Electronics,* (Univ. of 
 - 1 Silicon Elephants: The Transformative Materiality of Microchips
 - 3 Shipping and Receiving: Circuits of Disposal and the 'Social Death' of Electronics
 
+**Exercise:** Pretty Good Privacy (PGP) with [Keybase](https://keybase.io/)
+
 ### April 13: waste 2
 
 Abhimanyu Shrivastava, "Transboundary Movement of E-Waste," *International Policy Digest,* Sept 13, 2016, <http://intpolicydigest.org/2016/09/13/transboundary-movement-e-waste/>
@@ -217,7 +296,7 @@ Andrew J. Hawkins, "E-Waste Empire," *The Verge,* June 22, 2016, <http://www.the
 
 ### April 18: control 1
 
-(Final project proposal due)
+**_(Final project proposal due)_**
 
 Bernard Harcourt, *Exposed: Desire and Disobedience in the Digital Age* (Cambridge: Harvard University Press, 2015), p. 1-28, 217-250.
 
@@ -239,46 +318,9 @@ Curtis Marez, "Cesar Chavez, United Farm Workers, and the History of Star Wars,"
 
 William Mazzarella, “The Myth of the Multitude, Or, Who’s Afraid of the Crowd?,” *Critical Inquiry* 36, no. 4 (2010): 697–727.
 
-Grade breakdown
-=================
-
-**20% attendance, participation, reading**
-
-Including potential reading quizzes and in-class activities.
-
-**20% writing exercises**
-
-Students are required to post four total writing assignments to the CourseWorks blog by 7:00 am Tuesday during weeks 2, 4, 6, and 10 of the semester (they are marked in the schedule below).  These updates can take the form of, among other things, a) an explanation, questioning, or complication of the week's readings, b) an update on your final project, or c) an interesting document, resource, or text (primary or secondary) that you've found related to the week's readings.  There are no length requirements.  This is simply a means of reading and thinking alongside one another as we work through these texts.
-
-**30% midterm**
-
-A written midterm exam, due to my inbox on the Friday before spring break (**March 10**), will consist of a selection of conceptual keywords that have emerged throughout the semester.  You will be asked to define these keywords in brief explanatory essays.  Please note that we're not looking for a dictionary definition, but rather an elucidation of the term as we have used it in the context of the class: in our discussions, in our readings, and in our individual research. You will be expected to cite relevant authors (though not exact quotes or page numbers) as well as class discussions.
-
-**30% final paper / project**
-
-A final paper of 8-10 pages (due **May #**) will engage with theoretical questions raised throughout the course and readings both from the syllabus and potentially of the student's own choosing.  Because so much of the grade rests on this final paper, I encourage you to use your CourseWorks writing assignments to rehearse your arguments and speak with me throughout the term about your ideas.  Potential essay topics will be offered in advance. The student may also choose her own topic.
-
-Policies
-=========
-
-Weekly attendance in class is expected. If you must be absent from a session for a serious reason, then you should contact me before the missed class and explain why you will not be in attendance. Cases of continuous, unexplained absence will result in a penalty to your grade or your ineligibility to complete the course. Attendance and active participation in discussions are part of fulfilling the course requirements. I will notify an advising dean if you have three or more unwarranted absences.  No extensions will be given except in extreme (and verifiable) circumstances. These circumstances include reasons of health and extenuating circumstances, such as death of a family member.
-
-Because we will be conducting some hands-on activities in class, you are asked to bring your laptop to class.  Students must practice good screen etiquette: keep it to the side and don't stare too long.
-
-Academic Integrity
-====================
-Columbia's intellectual community relies on academic integrity and responsibility as the cornerstone of its work. Graduate students are expected to exhibit the highest level of personal and academic honesty as they engage in scholarly discourse and research. In practical terms, you must be responsible for the full and accurate attribution of the ideas of others in all of your research papers and projects; you must be honest when taking your examinations; you must always submit your own work and not that of another student, scholar, or internet source. Graduate students are responsible for knowing and correctly utilizing referencing and bibliographical guidelines. When in doubt, consult your professor. Citation and plagiarism-prevention resources can be found at the GSAS page on Academic Integrity and Responsible Conduct of Research (<http://gsas.columbia.edu/academic-integrity>).
-
-Failure to observe these rules of conduct will have serious academic consequences, up to and including dismissal from the university. If a faculty member suspects a breach of academic honesty, appropriate investigative and disciplinary action will be taken following Dean's Discipline procedures (<http://gsas.columbia.edu/content/disciplinary-procedures>).
-
-Disabilities Accommodations
-=============================
-
-If you have been certified by Disability Services (DS) to receive accommodations, please either bring your accommodation letter from DS to your professor’s office hours to confirm your accommodation needs, or ask your liaison in GSAS to consult with your professor.  If you believe that you may have a disability that requires accommodation, please contact Disability Services at 212-854-2388 or <disability@columbia.edu>. Important: To request and receive an accommodation you must be certified by DS.
-
 Acknowledgments
 ================
 
-Thanks to Marie Hicks, Lev Manovich, Miriam Posner, Jim Brown, Dennis Tenen, Jentery Sayers, and Nick Seaver, whose syllabi and pedagogy influenced the design and content of this course.
+Thanks to Marie Hicks, Nick Knouf and Stuart Candy for ideas on the re-design assignment, Lev Manovich, Miriam Posner, Jim Brown, Dennis Tenen, Jentery Sayers, and Nick Seaver, whose syllabi and pedagogy influenced the design and content of this course.
 
 <!-- use `_md_to_pdf_header` then | pandoc -o digitalmedia_syllabus.pdf --template digsyl.latex index.md -->
