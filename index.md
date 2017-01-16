@@ -104,7 +104,7 @@ If you have been certified by Disability Services (DS) to receive accommodations
 
 ### January 19: definitions
 
-Ronald R. Kline, *The Cybernetics Moment: Or Why We Call Our Age the Information Age*, (Baltimore: Johns Hopkins University Press, 2015), p. 1-36
+Ronald R. Kline, [*The Cybernetics Moment: Or Why We Call Our Age the Information Age*](https://courseworks.columbia.edu/access/content/group/CPLSW3770_001_2017_1/Kline_2015_The_Cybernetics_Moment_-_Or_Why_We_Call_Our_Age_the_Information_Age.pdf), (Baltimore: Johns Hopkins University Press, 2015), p. 1-36
 
 - Introduction
 - 1 War and Information Theory
