@@ -10,7 +10,10 @@ title: Intro to Digital Media | Spring 2017
 ```
 Spring 2017
 Tue/Thu 1:10-2:25
-Location TBD
+Location: Heyman Center for the 
+    Humanities Board Room (first 
+    floor, directly across from 
+    the main entrance)
 
 Grant Wythoff <gw2290@columbia.edu>
 Office hours by appointment
