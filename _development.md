@@ -98,6 +98,8 @@ due March 10?
 http://zeitkunst.org/sites/default/files/teaching/CAMS218_SP15_TheoriesOfMediaSyllabus.pdf
 
 - write to Miriam Posner on her "device narrative" assignment for thoughts and updates since 2014. Is she still writing on tech supply chains?
+- Todd McLellan, *Things Come Apart: A Teardown Manual for Modern Living*
+- *Objects in Motion: Globalizing Technology (Artefacts: Studies in the History of Science and Technology)*, ed. Mollers and Dewalt
 - http://storyofstuff.org/movies/story-of-electronics/
 - Evidently you can buy a rare earth mine on the Internet. Anyone looking to make a smartphone from scratch start here: https://minelistings.com/commodity/rare-earth-elements-mines-for-sale/
 - Fairphone: "We’ve created the world’s first ethical, modular smartphone. You shouldn’t have to choose between a great phone and a fair supply chain."  https://www.fairphone.com/en/our-goals/fair-materials/responsible-sourcing/ and supply chain map:  http://open.sourcemap.com/maps/57bd640851c05c0a5b5a8be1
