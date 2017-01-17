@@ -65,6 +65,26 @@ Three elements:
 
 Computer History Museum's [oral history archives](https://www.youtube.com/playlist?list=PLQsxaNhYv8daKdGi7s85ubzbWdTB36-_q)
 
+## Films
+
+Lo and Behold,* Werner Herzog, Netflix
+
+*Silicon Valley* PBS docmentary, 2012 [sped up version…](https://www.youtube.com/watch?v=dQvRK60U8YM)
+
+*Top Secret Rosies: The Female "Computers" of WWII* (2010, PBS) full length, youtube rental
+
+[*The Computers: The Remarkable Story of the ENIAC Programmers*](https://vimeo.com/ondemand/eniac6) (20 min, online for rental)
+
+*Codebreaker* hybrid documentary and drama, crowdfunded
+
+*The Imitation Game* (2014) Netflix
+
+*The Secret Rules of Modern Living: Algorithms* Netflix documentary
+
+*The Bletchley Circle* TV series on women computers, on Netflix
+
+[Machine that Changed the World](https://www.youtube.com/channel/UCh8dvlssq89psetRW2GBeAA) 5-part PBS series
+
 # Assignments
 
 ## Re-design midterm: imagine a speculative device
@@ -91,28 +111,6 @@ Hybrid paper and digital/"other media" approach?
 Miriam Posner's reflection on her "device narrative" final project:  http://miriamposner.com/blog/reflections-on-my-digital-materiality-and-labor-class/
 
 http://www.theglobalist.com/a-brief-history-of-supply-chains/
-
-# Resources
-
-## Films
-
-*Lo and Behold,* Werner Herzog, Netflix
-
-*Silicon Valley* PBS docmentary, 2012 [sped up version…](https://www.youtube.com/watch?v=dQvRK60U8YM)
-
-*Top Secret Rosies: The Female "Computers" of WWII* (2010, PBS) full length, youtube rental
-
-[*The Computers: The Remarkable Story of the ENIAC Programmers*](https://vimeo.com/ondemand/eniac6) (20 min, online for rental)
-
-*Codebreaker* hybrid documentary and drama, crowdfunded
-
-*The Imitation Game* (2014) Netflix
-
-*The Secret Rules of Modern Living: Algorithms* Netflix documentary
-
-*The Bletchley Circle* TV series on women computers, on Netflix
-
-[Machine that Changed the World](https://www.youtube.com/channel/UCh8dvlssq89psetRW2GBeAA) 5-part PBS series
 
 
 # Class Planning
