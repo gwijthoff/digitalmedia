@@ -8,7 +8,10 @@ author: |
     Professor:\ Grant Wythoff\
     \(<gw2290@columbia.edu>\)\
     Heyman Center 304\
-    Office Hours by appointment
+    Office Hours by appointment\
+     \
+    Course site:\
+    <https://gwijthoff.github.io/digitalmedia>
 ---
 
 ![](assets/images/cc-by.png)\
