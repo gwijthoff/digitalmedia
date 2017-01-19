@@ -111,7 +111,7 @@ Ronald R. Kline, [*The Cybernetics Moment: Or Why We Call Our Age the Informatio
 
 ### January 24: tinkerers 1
 
-James Gleick, *The Information: A History, A Theory, A Flood* (Vintage Books, 2012), pp. 3-12, 78-124, 233-268
+James Gleick, [*The Information: A History, A Theory, A Flood*](http://wythoff.net/readings/Gleick_2012_The_Information_-_A_History,_A_Theory,_A_Flood.pdf) (Vintage Books, 2012), pp. 3-12, 78-124, 233-268
 
 - Prologue
 - 4 To Throw the Powers of Thought into Wheel-Work
@@ -119,7 +119,7 @@ James Gleick, *The Information: A History, A Theory, A Flood* (Vintage Books, 20
 
 ### January 26: tinkerers 2
 
-Alison Winter, “A Calculus of Suffering,” in *Science Incarnate: Historical Embodiments of Natural Knowledge,* ed. Christopher Lawrence and Steven Shapin (University of Chicago Press, 1998), 202–39.
+Alison Winter, [“A Calculus of Suffering,”](http://wythoff.net/readings/Winter_1998_A_Calculus_of_Suffering.pdf) in *Science Incarnate: Historical Embodiments of Natural Knowledge,* ed. Christopher Lawrence and Steven Shapin (University of Chicago Press, 1998), 202–39.
 
 **********************
 
