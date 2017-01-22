@@ -109,6 +109,12 @@ Ronald R. Kline, [*The Cybernetics Moment: Or Why We Call Our Age the Informatio
 - Introduction
 - 1 War and Information Theory
 
+**Further reading:**
+
+John Haugeland, [“Analog and Analog,”](http://wythoff.net/readings/Haugeland_1981_Analog_and_Analog.pdf) *Philosophical Topics* 12, no. 1 (Spring 1981): 213–25.
+
+Ralph W. Gerard, [“Some of the Problems Concerning Digital Notions in the Central Nervous System,”](http://wythoff.net/readings/Gerard_2016_Some_of_the_problems_concerning_digital_notions_in_the_central_nervous_system.pdf) in *Cybernetics: The Macy Conferences 1946-1953. The Complete Transactions,* ed. Claus Pias (Zürich: Diaphanes, 2016), 171–202.
+
 ### January 24: tinkerers 1
 
 James Gleick, [*The Information: A History, A Theory, A Flood*](http://wythoff.net/readings/Gleick_2012_The_Information_-_A_History,_A_Theory,_A_Flood.pdf) (Vintage Books, 2012), pp. 3-12, 78-124, 233-268
@@ -168,7 +174,7 @@ John Durham Peters, "Understanding Media," *The Marvelous Clouds: Toward a Philo
 
 ### February 16
 
-Wendy Hui Kyong Chun, "Someone Said New Media," *New Media / Old Media: A History and Theory Reader,* 2nd ed. (Routledge, 2016)
+Wendy Hui Kyong Chun, ["Somebody Said New Media,"](http://wythoff.net/readings/Chun_2016_Somebody_Said_New_Media.PDF) *New Media / Old Media: A History and Theory Reader,* 2nd ed. (Routledge, 2016)
 
 **********************
 
@@ -237,13 +243,15 @@ An Xiao Mina, "'Created' in China: Shenzhen is Making Hardware Like Silicon Vall
 
 ### March 21: privacy 1
 
-Readings announced as events unfold.
+[A DIY Guide to Feminist Cybersecurity](https://hackblossom.org/cybersecurity/), curated by HACK*BLOSSOM
+
+Further readings announced as events unfold.
 
 **Exercise:** Data Detox 7: Creating a New You
 
 ### March 23: privacy 2
 
-Readings announced as events unfold.
+Further readings announced as events unfold.
 
 ### March 28: habits 1
 
