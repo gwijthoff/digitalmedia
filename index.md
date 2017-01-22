@@ -113,7 +113,7 @@ Ronald R. Kline, [*The Cybernetics Moment: Or Why We Call Our Age the Informatio
 
 John Haugeland, [“Analog and Analog,”](http://wythoff.net/readings/Haugeland_1981_Analog_and_Analog.pdf) *Philosophical Topics* 12, no. 1 (Spring 1981): 213–25.
 
-Ralph W. Gerard, [“Some of the Problems Concerning Digital Notions in the Central Nervous System,”](http://wythoff.net/readings/Gerard_2016_Some_of_the_problems_concerning_digital_notions_in_the_central_nervous_system.pdf) in *Cybernetics: The Macy Conferences 1946-1953. The Complete Transactions,* ed. Claus Pias (Zürich: Diaphanes, 2016), 171–202.
+Ralph W. Gerard, [“Some of the Problems Concerning Digital Notions in the Central Nervous System,”](http://wythoff.net/readings/Gerard_2016_Some_of_the_problems_concerning_digital_notions_in_the_central_nervous_system.pdf) in *Cybernetics: The Macy Conferences 1946-1953. The Complete Transactions,* ed. Claus Pias (Zürich: Diaphanes, 2016 [1950]), 171–202.
 
 ### January 24: tinkerers 1
 
@@ -135,13 +135,13 @@ Alison Winter, [“A Calculus of Suffering,”](http://wythoff.net/readings/Wint
 
 William Gibson, *Neuromancer* (Ace Books, 1984), Part Two: The Shopping Expedition, pp. 43-98.
 
-Xiao Liu, “Magic Waves, Extrasensory Powers, and Nonstop Instantaneity: Imagining the Digital beyond Digits,” *Grey Room* 63 (Spring 2016): 42–69.
+Xiao Liu, [“Magic Waves, Extrasensory Powers, and Nonstop Instantaneity: Imagining the Digital beyond Digits,”](http://wythoff.net/readings/Liu_2016_Magic_Waves,_Extrasensory_Powers,_and_Nonstop_Instantaneity_-_Imagining_the.pdf) *Grey Room* 63 (Spring 2016): 42–69.
 
 **Exercise:** Data Detox 1: Discovery
 
 ### February 2: global cyberpunk 2
 
-Eden Medina, *Cybernetic Revolutionaries: Technology and Politics in Allende’s Chile* (Cambridge: MIT Press, 2014), p. 1-14, 95-140
+Eden Medina, [*Cybernetic Revolutionaries: Technology and Politics in Allende’s Chile*](http://wythoff.net/readings/Medina_2014_Cybernetic_Revolutionaries_-_Technology_and_Politics_in_Allende's_Chile.pdf) (Cambridge: MIT Press, 2014), p. 1-14, 95-140
 
 - Prologue
 - Introduction: Political and Technological Visions
