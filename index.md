@@ -123,6 +123,14 @@ James Gleick, [*The Information: A History, A Theory, A Flood*](http://wythoff.n
 - 4 To Throw the Powers of Thought into Wheel-Work
 - 8 The Informational Turn
 
+**Further reading:**
+
+William Davies, ["How Statistics Lost Their Power,"](https://www.theguardian.com/politics/2017/jan/19/crisis-of-statistics-big-data-democracy), *The Guardian,* Jan 19, 2017
+
+[A Guide to Feminist Cybersecurity](https://hackblossom.org/cybersecurity/)
+
+[DataRefuge](http://www.ppehlab.org/), a public, collaborative project designed to safeguard federal climate and environmental data. [New York event](https://datarescuenyc.com/) on Feb 4, 2017.
+
 ### January 26: tinkerers 2
 
 Alison Winter, [“A Calculus of Suffering,”](http://wythoff.net/readings/Winter_1998_A_Calculus_of_Suffering.pdf) in *Science Incarnate: Historical Embodiments of Natural Knowledge,* ed. Christopher Lawrence and Steven Shapin (University of Chicago Press, 1998), 202–39.
