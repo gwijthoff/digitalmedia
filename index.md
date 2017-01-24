@@ -109,12 +109,6 @@ Ronald R. Kline, [*The Cybernetics Moment: Or Why We Call Our Age the Informatio
 - Introduction
 - 1 War and Information Theory
 
-**Further reading:**
-
-John Haugeland, [“Analog and Analog,”](http://wythoff.net/readings/Haugeland_1981_Analog_and_Analog.pdf) *Philosophical Topics* 12, no. 1 (Spring 1981): 213–25.
-
-Ralph W. Gerard, [“Some of the Problems Concerning Digital Notions in the Central Nervous System,”](http://wythoff.net/readings/Gerard_2016_Some_of_the_problems_concerning_digital_notions_in_the_central_nervous_system.pdf) in *Cybernetics: The Macy Conferences 1946-1953. The Complete Transactions,* ed. Claus Pias (Zürich: Diaphanes, 2016 [1950]), 171–202.
-
 ### January 24: tinkerers 1
 
 James Gleick, [*The Information: A History, A Theory, A Flood*](http://wythoff.net/readings/Gleick_2012_The_Information_-_A_History,_A_Theory,_A_Flood.pdf) (Vintage Books, 2012), pp. 3-12, 78-124, 233-268
@@ -123,7 +117,15 @@ James Gleick, [*The Information: A History, A Theory, A Flood*](http://wythoff.n
 - 4 To Throw the Powers of Thought into Wheel-Work
 - 8 The Informational Turn
 
-**Further reading:**
+### January 26: tinkerers 2
+
+Alison Winter, [“A Calculus of Suffering,”](http://wythoff.net/readings/Winter_1998_A_Calculus_of_Suffering.pdf) in *Science Incarnate: Historical Embodiments of Natural Knowledge,* ed. Christopher Lawrence and Steven Shapin (University of Chicago Press, 1998), 202–39.
+
+### Further reading: Theories
+
+John Haugeland, [“Analog and Analog,”](http://wythoff.net/readings/Haugeland_1981_Analog_and_Analog.pdf) *Philosophical Topics* 12, no. 1 (Spring 1981): 213–25.
+
+Ralph W. Gerard, [“Some of the Problems Concerning Digital Notions in the Central Nervous System,”](http://wythoff.net/readings/Gerard_2016_Some_of_the_problems_concerning_digital_notions_in_the_central_nervous_system.pdf) in *Cybernetics: The Macy Conferences 1946-1953. The Complete Transactions,* ed. Claus Pias (Zürich: Diaphanes, 2016 [1950]), 171–202.
 
 William Davies, ["How Statistics Lost Their Power,"](https://www.theguardian.com/politics/2017/jan/19/crisis-of-statistics-big-data-democracy), *The Guardian,* Jan 19, 2017
 
@@ -136,10 +138,6 @@ William Davies, ["How Statistics Lost Their Power,"](https://www.theguardian.com
 Jacob Gaboury, ["A Queer History of Computing"](http://rhizome.org/editorial/2013/feb/19/queer-computing-1/), *Rhizome* (2013)
 
 Fiona Barnett et al., ["QueerOS: A User's Manual"](http://dhdebates.gc.cuny.edu/debates/text/56), *Debates in the Digital Humanities 2016* (Univ. of Minnesota Press, 2016)
-
-### January 26: tinkerers 2
-
-Alison Winter, [“A Calculus of Suffering,”](http://wythoff.net/readings/Winter_1998_A_Calculus_of_Suffering.pdf) in *Science Incarnate: Historical Embodiments of Natural Knowledge,* ed. Christopher Lawrence and Steven Shapin (University of Chicago Press, 1998), 202–39.
 
 **********************
 
