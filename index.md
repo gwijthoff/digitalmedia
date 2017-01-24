@@ -131,6 +131,12 @@ William Davies, ["How Statistics Lost Their Power,"](https://www.theguardian.com
 
 [DataRefuge](http://www.ppehlab.org/), a public, collaborative project designed to safeguard federal climate and environmental data. [New York event](https://datarescuenyc.com/) on Feb 4, 2017.
 
+[*Top Secret Rosies*](https://www.youtube.com/watch?v=qctPH8Nljeg) (2010) PBS documentary
+
+Jacob Gaboury, ["A Queer History of Computing"](http://rhizome.org/editorial/2013/feb/19/queer-computing-1/), *Rhizome* (2013)
+
+Fiona Barnett et al., ["QueerOS: A User's Manual"](http://dhdebates.gc.cuny.edu/debates/text/56), *Debates in the Digital Humanities 2016* (Univ. of Minnesota Press, 2016)
+
 ### January 26: tinkerers 2
 
 Alison Winter, [“A Calculus of Suffering,”](http://wythoff.net/readings/Winter_1998_A_Calculus_of_Suffering.pdf) in *Science Incarnate: Historical Embodiments of Natural Knowledge,* ed. Christopher Lawrence and Steven Shapin (University of Chicago Press, 1998), 202–39.
