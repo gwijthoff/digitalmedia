@@ -104,14 +104,14 @@ If you have been certified by Disability Services (DS) to receive accommodations
 
 ### January 19: definitions
 
-Ronald R. Kline, [*The Cybernetics Moment: Or Why We Call Our Age the Information Age*](http://wythoff.net/readings/Kline_2015_The_Cybernetics_Moment_-_Or_Why_We_Call_Our_Age_the_Information_Age.pdf), (Baltimore: Johns Hopkins University Press, 2015), p. 1-36
+Ronald R. Kline, [*The Cybernetics Moment: Or Why We Call Our Age the Information Age*](https://courseworks.columbia.edu/access/content/group/CPLSW3770_001_2017_1/Kline_2015_The_Cybernetics_Moment_-_Or_Why_We_Call_Our_Age_the_Information_Age.pdf), (Baltimore: Johns Hopkins University Press, 2015), p. 1-36
 
 - Introduction
 - 1 War and Information Theory
 
 ### January 24: tinkerers 1
 
-James Gleick, [*The Information: A History, A Theory, A Flood*](http://wythoff.net/readings/Gleick_2012_The_Information_-_A_History,_A_Theory,_A_Flood.pdf) (Vintage Books, 2012), pp. 3-12, 78-124, 233-268
+James Gleick, [*The Information: A History, A Theory, A Flood*](https://courseworks.columbia.edu/access/content/group/CPLSW3770_001_2017_1/Gleick_2012_The_Information_-_A_History,_A_Theory,_A_Flood.pdf) (Vintage Books, 2012), pp. 3-12, 78-124, 233-268
 
 - Prologue
 - 4 To Throw the Powers of Thought into Wheel-Work
@@ -119,13 +119,13 @@ James Gleick, [*The Information: A History, A Theory, A Flood*](http://wythoff.n
 
 ### January 26: tinkerers 2
 
-Alison Winter, [“A Calculus of Suffering,”](http://wythoff.net/readings/Winter_1998_A_Calculus_of_Suffering.pdf) in *Science Incarnate: Historical Embodiments of Natural Knowledge,* ed. Christopher Lawrence and Steven Shapin (University of Chicago Press, 1998), 202–39.
+Alison Winter, [“A Calculus of Suffering,”](https://courseworks.columbia.edu/access/content/group/CPLSW3770_001_2017_1/Winter_1998_A_Calculus_of_Suffering.pdf) in *Science Incarnate: Historical Embodiments of Natural Knowledge,* ed. Christopher Lawrence and Steven Shapin (University of Chicago Press, 1998), 202–39.
 
 ### Further reading: Theories
 
-John Haugeland, [“Analog and Analog,”](http://wythoff.net/readings/Haugeland_1981_Analog_and_Analog.pdf) *Philosophical Topics* 12, no. 1 (Spring 1981): 213–25.
+John Haugeland, [“Analog and Analog,”](https://courseworks.columbia.edu/access/content/group/CPLSW3770_001_2017_1/Haugeland_1981_Analog_and_Analog.pdf) *Philosophical Topics* 12, no. 1 (Spring 1981): 213–25.
 
-Ralph W. Gerard, [“Some of the Problems Concerning Digital Notions in the Central Nervous System,”](http://wythoff.net/readings/Gerard_2016_Some_of_the_problems_concerning_digital_notions_in_the_central_nervous_system.pdf) in *Cybernetics: The Macy Conferences 1946-1953. The Complete Transactions,* ed. Claus Pias (Zürich: Diaphanes, 2016 [1950]), 171–202.
+Ralph W. Gerard, [“Some of the Problems Concerning Digital Notions in the Central Nervous System,”](https://courseworks.columbia.edu/access/content/group/CPLSW3770_001_2017_1/Gerard_2016_Some_of_the_problems_concerning_digital_notions_in_the_central_nervous_system.pdf) in *Cybernetics: The Macy Conferences 1946-1953. The Complete Transactions,* ed. Claus Pias (Zürich: Diaphanes, 2016 [1950]), 171–202.
 
 William Davies, ["How Statistics Lost Their Power,"](https://www.theguardian.com/politics/2017/jan/19/crisis-of-statistics-big-data-democracy), *The Guardian,* Jan 19, 2017
 
@@ -145,23 +145,22 @@ Fiona Barnett et al., ["QueerOS: A User's Manual"](http://dhdebates.gc.cuny.edu/
 
 ### January 31: global cyberpunk 1
 
-William Gibson, *Neuromancer* (Ace Books, 1984), Part Two: The Shopping Expedition, pp. 43-98.
+William Gibson, [*Neuromancer*](https://courseworks.columbia.edu/access/content/group/CPLSW3770_001_2017_1/Gibson_1984_Neuromancer.pdf) (Ace Books, 1984), Part Two: The Shopping Expedition, pp. 43-69.
 
-Xiao Liu, [“Magic Waves, Extrasensory Powers, and Nonstop Instantaneity: Imagining the Digital beyond Digits,”](http://wythoff.net/readings/Liu_2016_Magic_Waves,_Extrasensory_Powers,_and_Nonstop_Instantaneity_-_Imagining_the.pdf) *Grey Room* 63 (Spring 2016): 42–69.
+Xiao Liu, [“Magic Waves, Extrasensory Powers, and Nonstop Instantaneity: Imagining the Digital beyond Digits,”](https://courseworks.columbia.edu/access/content/group/CPLSW3770_001_2017_1/Liu_2016_Magic_Waves,_Extrasensory_Powers,_and_Nonstop_Instantaneity_-_Imagining_the.pdf) *Grey Room* 63 (Spring 2016): 42–69.
 
 **Exercise:** Data Detox 1: Discovery
 
 ### February 2: global cyberpunk 2
 
-Eden Medina, [*Cybernetic Revolutionaries: Technology and Politics in Allende’s Chile*](http://wythoff.net/readings/Medina_2014_Cybernetic_Revolutionaries_-_Technology_and_Politics_in_Allende's_Chile.pdf) (Cambridge: MIT Press, 2014), p. 1-14, 95-140
+Eden Medina, [*Cybernetic Revolutionaries: Technology and Politics in Allende’s Chile*](https://courseworks.columbia.edu/access/content/group/CPLSW3770_001_2017_1/Medina_2014_Cybernetic_Revolutionaries_-_Technology_and_Politics_in_Allende's_Chile.pdf) (Cambridge: MIT Press, 2014), p. 1-14, 95-140
 
-- Prologue
 - Introduction: Political and Technological Visions
 - 4 Constructing the Liberty Machine
 
 ### February 7: afrofuturism 1
 
-Delany, *Stars in My Pocket Like Grains of Sand* (Middletown, CT: Wesleyan University Press, 2004 [1984]), selections.
+Delany, [*Stars in My Pocket Like Grains of Sand*](https://courseworks.columbia.edu/access/content/group/CPLSW3770_001_2017_1/Delany_1984_Stars_in_my_Pocket_Like_Grains_of_Sand.pdf) (Middletown, CT: Wesleyan University Press, 2004 [1984]), pp. 17-46.
 
 **Exercise:** Data Detox 2: Being Social
 
@@ -186,7 +185,7 @@ John Durham Peters, "Understanding Media," *The Marvelous Clouds: Toward a Philo
 
 ### February 16
 
-Wendy Hui Kyong Chun, ["Somebody Said New Media,"](http://wythoff.net/readings/Chun_2016_Somebody_Said_New_Media.PDF) *New Media / Old Media: A History and Theory Reader,* 2nd ed. (Routledge, 2016)
+Wendy Hui Kyong Chun, ["Somebody Said New Media,"](https://courseworks.columbia.edu/access/content/group/CPLSW3770_001_2017_1/Chun_2016_Somebody_Said_New_Media.PDF) *New Media / Old Media: A History and Theory Reader,* 2nd ed. (Routledge, 2016)
 
 **********************
 
