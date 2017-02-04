@@ -171,7 +171,7 @@ Ytasha L. Womack, *Afrofuturism: The World of Black Sci-Fi and Fantasy Culture* 
 - Evolution of a Space Cadet
 - Project Imagination
 
-Mark Dery, “Black to the Future: Interviews with Samuel R. Delany, Greg Tate, and Tricia Rose,” in *Flame Wars: The Discourse of Cyberculture*, ed. Mark Dery (Durham, NC: Duke University Press, 1994), 179–222.
+Mark Dery, [“Black to the Future: Interviews with Samuel R. Delany, Greg Tate, and Tricia Rose,”](https://courseworks.columbia.edu/access/content/group/CPLSW3770_001_2017_1/Dery_1994_Black_to_the_Future_-_Interviews_with_Samuel_R._Delany,_Greg_Tate,_and_Tricia.pdf) in *Flame Wars: The Discourse of Cyberculture*, ed. Mark Dery (Durham, NC: Duke University Press, 1994), 179–222.
 
 **********************
 
