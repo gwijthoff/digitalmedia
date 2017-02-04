@@ -174,7 +174,7 @@ Mark Dery, [“Black to the Future: Interviews with Samuel R. Delany, Greg Tate,
 
 ### February 14
 
-John Durham Peters, "Understanding Media," *The Marvelous Clouds: Toward a Philosophy of Elemental Media* (University of Chicago Press, 2016), p. 13-52.
+John Durham Peters, ["Understanding Media,"](https://courseworks.columbia.edu/access/content/group/CPLSW3770_001_2017_1/Peters_2016_The_Marvelous_Clouds_-_Toward_a_Philosophy_of_Elemental_Media.pdf) *The Marvelous Clouds: Toward a Philosophy of Elemental Media* (University of Chicago Press, 2016), p. 13-52.
 
 **Exercise:** Data Detox 3: Searching, Surfing, Shopping
 
