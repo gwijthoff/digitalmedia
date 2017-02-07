@@ -67,7 +67,8 @@ Summary of assignment due dates
 ================================
 
 - **7am Tuesdays:** weekly post
-- **March 9:** Re-design paper and presentation
+- **Feb 23:** re-design proposal
+- **March 9:** re-design paper and presentation due
 - **April 18:** final project proposal
 - **May 8:** final project due
 
@@ -193,6 +194,8 @@ Wendy Hui Kyong Chun, “On ‘Sourcery,’ or Code as Fetish,” *Configuration
 
 ### February 23
 
+**_(re-design project proposal due by e-mail or in person)_**
+
 Adrian Mackenzie, “The Problem of Computer Code: Leviathan or Common Power?” (2003)
 
 Nick Montfort et al., *10 PRINT CHR$(205.5+RND(1)); : GOTO 10* (Cambridge: MIT Press, 2012), selections
@@ -310,7 +313,7 @@ Andrew J. Hawkins, "E-Waste Empire," *The Verge,* June 22, 2016, <http://www.the
 
 ### April 18: control 1
 
-**_(Final project proposal due)_**
+**_(Final project proposal due by e-mail or in person)_**
 
 Bernard Harcourt, *Exposed: Desire and Disobedience in the Digital Age* (Cambridge: Harvard University Press, 2015), p. 1-28, 217-250.
 
