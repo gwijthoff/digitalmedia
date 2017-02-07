@@ -3,7 +3,7 @@ title: |
     **CPLS UN3770:\ \
     Introduction to Digital Media** \
     Spring 2017 \
-    [Room] \| Tue/Thur, 1:10 - 2:25
+    Pupin Laboratories 412 \| Tue/Thur, 1:10 - 2:25
 author: |
     Professor:\ Grant Wythoff\
     \(<gw2290@columbia.edu>\)\
