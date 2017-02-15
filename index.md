@@ -182,13 +182,17 @@ Wendy Hui Kyong Chun, ["Somebody Said New Media,"](https://courseworks.columbia.
 
 **********************
 
-## Code
+## Interlude: Information Wars
 
 ### February 21
 
-N. Katherine Hayles, “Print Is Flat, Code Is Deep: The Importance of Media-Specific Analysis,” Poetics Today 25, no. 1 (2004): 67–90.
+Hannah Barton, ["Tactical Virality"](http://reallifemag.com/tactical-virality/), *Real Life,* February 14, 2017
 
-Wendy Hui Kyong Chun, “On ‘Sourcery,’ or Code as Fetish,” *Configurations* 16, no. 3 (Fall 2008): 299–324.
+Craig Silverman, ["Here’s Why Facebook’s Trending Algorithm Keeps Promoting Fake News"](https://www.buzzfeed.com/craigsilverman/can-facebook-trending-fight-off-fake-news), *Buzzfeed,* October 26, 2016
+
+Craig Silverman, ["How Teens In The Balkans Are Duping Trump Supporters With Fake News"](https://www.buzzfeed.com/craigsilverman/how-macedonia-became-a-global-hub-for-pro-trump-misinfo), *Buzzfeed,* November 3, 2016
+
+Browse the Oxford Internet Institute's [Political Bots](http://politicalbots.org/) project
 
 **Exercise:** Data Detox 4: Connecting
 
@@ -196,9 +200,9 @@ Wendy Hui Kyong Chun, “On ‘Sourcery,’ or Code as Fetish,” *Configuration
 
 **_(re-design project proposal due by e-mail or in person)_**
 
-Adrian Mackenzie, “The Problem of Computer Code: Leviathan or Common Power?” (2003)
+John Dewey, [Review of *Public Opinion* by Walter Lippmann](http://www.unz.org/Pub/NewRepublic-1922may03-00286), *The New Republic,* May 3, 1922
 
-Nick Montfort et al., *10 PRINT CHR$(205.5+RND(1)); : GOTO 10* (Cambridge: MIT Press, 2012), selections
+C.K. Ogden and I.A. Richards, excerpts from *The Meaning of Meaning: A Study of the Influence of Language upon Thought and of the Science of Symbolism* (1923)
 
 **********************
 
