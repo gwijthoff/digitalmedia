@@ -344,6 +344,6 @@ William Mazzarella, “The Myth of the Multitude, Or, Who’s Afraid of the Crow
 Acknowledgments
 ================
 
-Thanks to Marie Hicks, Nick Knouf and Stuart Candy for ideas on the re-design assignment, Lev Manovich, Miriam Posner, Jim Brown, Dennis Tenen, Jentery Sayers, and Nick Seaver, whose syllabi and pedagogy influenced the design and content of this course.
+Thanks to Nick Knouf and Stuart Candy for ideas on the re-design assignment, as well as Marie Hicks, Lev Manovich, Miriam Posner, Jim Brown, Dennis Tenen, Jentery Sayers, and Nick Seaver, whose syllabi and pedagogy influenced the design and content of this course.
 
 <!-- use `_md_to_pdf_header` then | pandoc -o digitalmedia_syllabus.pdf --template digsyl.latex index.md -->
