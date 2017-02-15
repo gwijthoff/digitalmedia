@@ -96,6 +96,8 @@ If you have been certified by Disability Services (DS) to receive accommodations
 
 # <a name="schedule"></a>Schedule
 
+**********************
+
 ## Theories
 
 ### January 17: introductions
@@ -194,8 +196,6 @@ Craig Silverman, ["How Teens In The Balkans Are Duping Trump Supporters With Fak
 
 Browse the Oxford Internet Institute's [Political Bots](http://politicalbots.org/) project
 
-**Exercise:** Data Detox 4: Connecting
-
 ### February 23
 
 **_(re-design project proposal due by e-mail or in person)_**
@@ -203,6 +203,8 @@ Browse the Oxford Internet Institute's [Political Bots](http://politicalbots.org
 John Dewey, [Review of *Public Opinion* by Walter Lippmann](http://www.unz.org/Pub/NewRepublic-1922may03-00286), *The New Republic,* May 3, 1922
 
 C.K. Ogden and I.A. Richards, excerpts from *The Meaning of Meaning: A Study of the Influence of Language upon Thought and of the Science of Symbolism* (1923)
+
+**Exercise:** Data Detox 4: Connecting
 
 **********************
 
