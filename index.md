@@ -190,9 +190,9 @@ Wendy Hui Kyong Chun, ["Somebody Said New Media,"](https://courseworks.columbia.
 
 Hannah Barton, ["Tactical Virality"](http://reallifemag.com/tactical-virality/), *Real Life,* February 14, 2017
 
-Craig Silverman, ["Here’s Why Facebook’s Trending Algorithm Keeps Promoting Fake News"](https://www.buzzfeed.com/craigsilverman/can-facebook-trending-fight-off-fake-news), *Buzzfeed,* October 26, 2016
+Samanth Subramanian, ["Welcome to Veles, Macedonia: Fake News Factory to the World"](https://www.wired.com/2017/02/veles-macedonia-fake-news), *Wired,* February 15, 2017
 
-Craig Silverman, ["How Teens In The Balkans Are Duping Trump Supporters With Fake News"](https://www.buzzfeed.com/craigsilverman/how-macedonia-became-a-global-hub-for-pro-trump-misinfo), *Buzzfeed,* November 3, 2016
+Craig Silverman, ["Here’s Why Facebook’s Trending Algorithm Keeps Promoting Fake News"](https://www.buzzfeed.com/craigsilverman/can-facebook-trending-fight-off-fake-news), *Buzzfeed,* October 26, 2016
 
 Browse the Oxford Internet Institute's [Political Bots](http://politicalbots.org/) project
 
