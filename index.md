@@ -202,7 +202,7 @@ Browse the Oxford Internet Institute's [Political Bots](http://politicalbots.org
 
 John Dewey, [Review of *Public Opinion* by Walter Lippmann](http://www.unz.org/Pub/NewRepublic-1922may03-00286), *The New Republic,* May 3, 1922
 
-C.K. Ogden and I.A. Richards, excerpts from *The Meaning of Meaning: A Study of the Influence of Language upon Thought and of the Science of Symbolism* (1923)
+C.K. Ogden and I.A. Richards, excerpts from [*The Meaning of Meaning: A Study of the Influence of Language upon Thought and of the Science of Symbolism*](https://courseworks.columbia.edu/access/content/group/CPLSW3770_001_2017_1/Ogden_Richards_The_Meaning_of_Meaning_1923.pdf) (1923)
 
 **Exercise:** Data Detox 4: Connecting
 
