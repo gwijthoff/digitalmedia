@@ -214,16 +214,11 @@ C.K. Ogden and I.A. Richards, excerpts from [*The Meaning of Meaning: A Study of
 
 Don Norman, [“The Psychopathology of Everyday Things”](https://courseworks.columbia.edu/access/content/group/CPLSW3770_001_2017_1/Norman_1988_Design_of_Everyday_Things.pdf) in *The Design of Everyday Things* (Basic Books, 2013 [1988]), pp. 1-36.
 
-Bruce Sterling, [*Shaping Things*](https://courseworks.columbia.edu/access/content/group/CPLSW3770_001_2017_1/Sterling_2005_Shaping_things.pdf) (Cambridge: MIT Press, 2005).
-
 **Exercise:** Data Detox 5: Making Choices
 
 ### March 2: users 2
 
-Anne Friedberg, *The Virtual Window: From Alberti to Microsoft* (Cambridge: MIT Press, 2006), p. 1-24, 149-190.
-
-- Introduction
-- 4 The Screen
+Bruce Sterling, [*Shaping Things*](https://courseworks.columbia.edu/access/content/group/CPLSW3770_001_2017_1/Sterling_2005_Shaping_things.pdf) (Cambridge: MIT Press, 2005).
 
 ### March 7: makers 1
 
