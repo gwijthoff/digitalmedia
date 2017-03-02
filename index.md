@@ -222,9 +222,9 @@ Bruce Sterling, [*Shaping Things*](https://courseworks.columbia.edu/access/conte
 
 ### March 7: makers 1
 
-Nakamura, Lisa. 2014. “Indigenous Circuits: Navajo Women and the Racialization of Early Electronic Manufacture.” American Quarterly 66(4): 919–941.
+Lisa Nakamura, [“Indigenous Circuits: Navajo Women and the Racialization of Early Electronic Manufacture,”](https://courseworks.columbia.edu/access/content/group/CPLSW3770_001_2017_1/Nakamura_2014_Indigenous_Circuits_-_Navajo_Women_and_the_Racialization_of_Early_Electronic.pdf) *American Quarterly* vol. 66, no. 4 (2014): 919–941.
 
-Steven J. Jackson, “Rethinking Repair,” in *Media Technologies: Essays on Communication, Materiality, and Society* (Cambridge: MIT Press, 2014), 221–39.
+Steven J. Jackson, [“Rethinking Repair,”]((https://courseworks.columbia.edu/access/content/group/CPLSW3770_001_2017_1/Jackson_2014_Rethinking_Repair.pdf) in *Media Technologies: Essays on Communication, Materiality, and Society* (Cambridge: MIT Press, 2014), 221–39.
 
 **Exercise:** Data Detox 6: Who Do They Think You Are?
 
