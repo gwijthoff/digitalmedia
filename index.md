@@ -232,13 +232,13 @@ Steven J. Jackson, [“Rethinking Repair,”](https://courseworks.columbia.edu/a
 
 **_(Re-design assignment due)_**
 
-Debbie Chachra, "Why I am Not a Maker," *The Atlantic,* Jan 23, 2015, <http://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/>.
+Debbie Chachra, ["Why I am Not a Maker,"](http://www.theatlantic.com/technology/archive/2015/01/why-i-am-not-a-maker/384767/) *The Atlantic,* Jan 23, 2015.
 
-Joi Ito, "Shenzhen Trip Report: Visiting the World's Manufacturing Ecosystem," [blog post], <https://joi.ito.com/weblog/2014/09/01/shenzhen-trip-r.html>
+Joi Ito, ["Shenzhen Trip Report: Visiting the World's Manufacturing Ecosystem"](https://joi.ito.com/weblog/2014/09/01/shenzhen-trip-r.html) [blog post].
 
-Tim Maughan, "The Changing Face of Shenzhen, the World's Gadget Factory," *Vice,* Aug 19, 2015, <http://motherboard.vice.com/read/beyond-foxconn-inside-shenzhen-the-worlds-gadget-factory>
+Tim Maughan, ["The Changing Face of Shenzhen, the World's Gadget Factory,"](http://motherboard.vice.com/read/beyond-foxconn-inside-shenzhen-the-worlds-gadget-factory) *Vice,* Aug 19, 2015.
 
-An Xiao Mina, "'Created' in China: Shenzhen is Making Hardware Like Silicon Valley Makes Apps," *Fusion,* Sept 7, 2016, <http://fusion.net/story/338939/created-in-china-shenzhen-hardware-startups/>
+An Xiao Mina, ["'Created' in China: Shenzhen is Making Hardware Like Silicon Valley Makes Apps,"](http://fusion.net/story/338939/created-in-china-shenzhen-hardware-startups/) *Fusion,* Sept 7, 2016.
 
 **********************
 
@@ -250,15 +250,19 @@ An Xiao Mina, "'Created' in China: Shenzhen is Making Hardware Like Silicon Vall
 
 ### March 21: privacy 1
 
-[A DIY Guide to Feminist Cybersecurity](https://hackblossom.org/cybersecurity/), curated by HACK*BLOSSOM
+Zeynep Tufekci, ["The Truth About the WikiLeaks C.I.A. Cache"](https://www.nytimes.com/2017/03/09/opinion/the-truth-about-the-wikileaks-cia-cache.html), *The New York Times,* March 9, 2017.
 
-Further readings announced as events unfold.
+Stephen T. Margulis, ["Three Theories of Privacy: An Overview,"](https://courseworks.columbia.edu/access/content/group/CPLSW3770_001_2017_1/Margulis_2011_Three_Theories_of_Privacy_-_An_Overview.pdf) in *Privacy Online: Perspectives on Privacy and Self-Disclosure in the Social Web* (2011)
 
 **Exercise:** Data Detox 7: Creating a New You
 
 ### March 23: privacy 2
 
-Further readings announced as events unfold.
+Eric Hughes, ["A Cypherpunk's Manifesto"](https://w2.eff.org/Privacy/Crypto/Crypto_misc/cypherpunk.manifesto) (1993)
+
+Check your [social media fingerprint](https://robinlinus.github.io/socialmedia-leak/) (from robinlinus on GitHub)
+
+Browse [A DIY Guide to Feminist Cybersecurity](https://hackblossom.org/cybersecurity/), curated by HACK*BLOSSOM
 
 ### March 28: habits 1
 
@@ -268,7 +272,7 @@ Dominic Pettman, *Infinite Distraction* (Polity, 2015).
 
 ### March 30: habits 2
 
-Wendy Chun, *Updating to Remain the Same,* (Cambridge: MIT Press, 2016), Introduction and all interstitial sections, total around 50pp.
+Wendy Chun, *Updating to Remain the Same,* (Cambridge: MIT Press, 2016), Introduction and all interstitial sections
 
 **********************
 
