@@ -260,7 +260,9 @@ Stephen T. Margulis, ["Three Theories of Privacy: An Overview,"](https://coursew
 
 Eric Hughes, ["A Cypherpunk's Manifesto"](https://w2.eff.org/Privacy/Crypto/Crypto_misc/cypherpunk.manifesto) (1993)
 
-Check your [social media fingerprint](https://robinlinus.github.io/socialmedia-leak/) (from robinlinus on GitHub)
+McKenzie Funk, ["Should We See Everything a Cop Sees?"](https://www.nytimes.com/2016/10/23/magazine/police-body-cameras.html), *The New York Times,* October 18, 2016
+
+Check your [social media fingerprint](https://robinlinus.github.io/socialmedia-leak/) across browsers (from robinlinus on GitHub)
 
 Browse [A DIY Guide to Feminist Cybersecurity](https://hackblossom.org/cybersecurity/), curated by HACK*BLOSSOM
 
