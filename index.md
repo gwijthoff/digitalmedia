@@ -268,13 +268,13 @@ Browse [A DIY Guide to Feminist Cybersecurity](https://hackblossom.org/cybersecu
 
 ### March 28: habits 1
 
-Dominic Pettman, *Infinite Distraction* (Polity, 2015).
+Dominic Pettman, [*Infinite Distraction*](https://courseworks.columbia.edu/access/content/group/CPLSW3770_001_2017_1/Pettman_2015_Infinite_Distraction.pdf) (Polity, 2015), Preface and Introduction: I Know Why the Caged Bird Tweets
 
 **Exercise:** Data Detox 8: What Next?
 
 ### March 30: habits 2
 
-Wendy Chun, *Updating to Remain the Same,* (Cambridge: MIT Press, 2016), Introduction and all interstitial sections
+Wendy Chun, [*Updating to Remain the Same,*](https://courseworks.columbia.edu/access/content/group/CPLSW3770_001_2017_1/Chun_2016_Updating_to_Remain_the_Same_-_Habitual_New_Media.pdf) (Cambridge: MIT Press, 2016), interstitial sections
 
 **********************
 
