@@ -282,21 +282,20 @@ Wendy Chun, [*Updating to Remain the Same,*](https://courseworks.columbia.edu/ac
 
 ### April 4: networks 1
 
-Nicole Starosielski, *The Undersea Network,* (Duke University Press, 2015), pp. 1-25, 94-169.
+Nicole Starosielski, [*The Undersea Network,*](https://courseworks.columbia.edu/access/content/group/CPLSW3770_001_2017_1/Starosielski_2015_The_Undersea_Network.pdf) (Duke University Press, 2015)
 
 - "Introduction: Against Flow"
 - 3 "Gateway: From Cable Colony to Network Operations Center"
-- 4 "Pressure Point: Turbulent Ecologies of the Cable Landing"
 
-Project website at <http://surfacing.in/>
+Check out project website at <http://surfacing.in/>
 
 **Exercise:** FemTechNet's ["Locking Down Your Digital Identity"](http://femtechnet.org/csov/lock-down-your-digital-identity/)
 
 ### April 6: networks 2
 
-Christian Sandvig, "Connection at Ewiiaapaayp Mountain: Indigenous Internet Infrastructure" in *Race After the Internet,* ed. Lisa Nakamura and Peter Chow-White (Routledge, 2011), p. 168-200.
+Christian Sandvig, ["Connection at Ewiiaapaayp Mountain: Indigenous Internet Infrastructure"](https://courseworks.columbia.edu/access/content/group/CPLSW3770_001_2017_1/Sandvig_2012_Connection_at_Ewiiaapaayp_Mountain.pdf) in *Race After the Internet,* ed. Lisa Nakamura and Peter Chow-White (Routledge, 2012), p. 168-200.
 
-Neal Stephenson, “Mother Earth Mother Board,” Wired (December 1996), <https://www.wired.com/1996/12/ffglass/>.
+Neal Stephenson, [“Mother Earth Mother Board,”](https://www.wired.com/1996/12/ffglass/) Wired (December 1996).
 
 ### April 11: waste 1
 
