@@ -299,19 +299,18 @@ Neal Stephenson, [“Mother Earth Mother Board,”](https://www.wired.com/1996/1
 
 ### April 11: waste 1
 
-Jennifer Gabrys, *Digital Rubbish: A Natural History of Electronics,* (Univ. of Michigan Press, 2011), p. 1-44, 74-100
+Jennifer Gabrys, [*Digital Rubbish: A Natural History of Electronics,*](https://courseworks.columbia.edu/access/content/group/CPLSW3770_001_2017_1/Gabrys_2011_Digital_Rubbish_-_A_Natural_History_of_Electronics.pdf) (Univ. of Michigan Press, 2011)
 
 - Introduction: A Natural History of Electronics
-- 1 Silicon Elephants: The Transformative Materiality of Microchips
 - 3 Shipping and Receiving: Circuits of Disposal and the 'Social Death' of Electronics
 
 **Exercise:** Pretty Good Privacy (PGP) with [Keybase](https://keybase.io/)
 
 ### April 13: waste 2
 
-Abhimanyu Shrivastava, "Transboundary Movement of E-Waste," *International Policy Digest,* Sept 13, 2016, <http://intpolicydigest.org/2016/09/13/transboundary-movement-e-waste/>
+Abhimanyu Shrivastava, ["Transboundary Movement of E-Waste,"](http://intpolicydigest.org/2016/09/13/transboundary-movement-e-waste/) *International Policy Digest,* Sept 13, 2016
 
-Andrew J. Hawkins, "E-Waste Empire," *The Verge,* June 22, 2016, <http://www.theverge.com/2016/6/22/11991440/eri-e-waste-electronics-recycling-nyc-gadget-trash>
+Andrew J. Hawkins, ["E-Waste Empire,"](http://www.theverge.com/2016/6/22/11991440/eri-e-waste-electronics-recycling-nyc-gadget-trash) *The Verge,* June 22, 2016
 
 **********************
 
