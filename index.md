@@ -46,7 +46,7 @@ One of the aims of this course is to explore the relationship between theory and
 
 The final form of this assignment should be a paper of 5 to 7 pages, properly referenced, and with additional media as necessary or desired.  Virtually any medium could work: paper prototypes, clay, painting, video, etc. You will additionally give an informal presentation of your re-design to the class.
 
-[Click here for details and resources on the midterm…](https://gwijthoff.github.io/digitalmedia/final.html)
+[Click here for details and resources on the midterm…](https://gwijthoff.github.io/digitalmedia/midterm.html)
 
 **25% final project**
 
