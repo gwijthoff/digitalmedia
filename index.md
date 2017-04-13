@@ -319,14 +319,14 @@ Andrew J. Hawkins, ["E-Waste Empire,"](http://www.theverge.com/2016/6/22/1199144
 
 **_(Final project proposal due by e-mail or in person)_**
 
-Alexis Shotwell, *Against Purity: Living Ethically in Compromised Times* (University of Minnesota Press, 2016), pp. 1-19, 107-135.
+Alexis Shotwell, [*Against Purity: Living Ethically in Compromised Times*](https://courseworks.columbia.edu/access/content/group/CPLSW3770_001_2017_1/Shotwell_2016_Against_Purity_-_Living_Ethically_in_Compromised_Times.pdf) (University of Minnesota Press, 2016), pp. 1-19, 107-135.
 
 - Complexity and Complicity: An Introduction to Constitutive Impurity
 - 4 Consuming Suffering: Eating, Energy, and Embodied Ethics
 
 ### April 20: control
 
-Bernard Harcourt, *Exposed: Desire and Disobedience in the Digital Age* (Harvard University Press, 2015), p. 1-28
+Bernard Harcourt, [*Exposed: Desire and Disobedience in the Digital Age*](https://courseworks.columbia.edu/access/content/group/CPLSW3770_001_2017_1/Harcourt_2015_Exposed_-_Desire_and_Disobedience_in_the_Digital_Age.pdf) (Harvard University Press, 2015), p. 1-28
 
 - The Expository Society
 
