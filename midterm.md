@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project: Re-Designs
+title: Project&#58; Re-Designs
 ---
 
 ![](assets/images/serendipity.png)
