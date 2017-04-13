@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Supply Chain Project
+title: Project: Supply Chains
 ---
 
 ![Todd McLellan, "Disassembled Walkman"](assets/images/mclellan_thingscomeapart.jpg)
