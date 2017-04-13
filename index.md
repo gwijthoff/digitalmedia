@@ -46,7 +46,7 @@ One of the aims of this course is to explore the relationship between theory and
 
 The final form of this assignment should be a paper of 5 to 7 pages, properly referenced, and with additional media as necessary or desired.  Virtually any medium could work: paper prototypes, clay, painting, video, etc. You will additionally give an informal presentation of your re-design to the class.
 
-[Click here for details and resources on the midterm…](https://gwijthoff.github.io/digitalmedia/2_midterm.html)
+[Click here for details and resources on the midterm…](https://gwijthoff.github.io/digitalmedia/midterm.html)
 
 **25% final project**
 
@@ -60,7 +60,7 @@ The project consists of two components.  First, you will produce some form of **
 
 In addition to the above, you will write a **paper of 5-7 pages** that situates your artifact within the contexts discussed in class.  I expect you to draw from the readings we considered, as well as secondary research from sources we did not cover.  I ask that you submit a brief proposal of your project to me the week of our April 18th class.  The final project is due May 8.  You will also present on your artifact during the final two class sessions for around 5 minutes.
 
-[Click here for details and resources on the final…](https://gwijthoff.github.io/digitalmedia/3_final.html)
+[Click here for details and resources on the final…](https://gwijthoff.github.io/digitalmedia/final.html)
 
 Summary of assignment due dates
 ================================
