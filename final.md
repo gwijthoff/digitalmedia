@@ -3,7 +3,7 @@ layout: page
 title: Supply Chain Project
 ---
 
-![](mclellan_thingscomeapart.jpg)
+![](images/mclellan_thingscomeapart.jpg)
 
 For your final project, you will select a specific digital device and trace the lifecycle of its manufacture, use, re-use, and disposal.  This is a very big task.  A single smartphone, for instance, contains over two hundred chemical compounds, and the scale of its production truly global: from rare-earth metal mines in Baotou, to data centers in Iowa, to grey markets in Jakarta, and electronics scrap yards in Delhi.  So, there are many different methods for going about this, many different pieces of the puzzle you can choose to focus on, and no two final projects will look alike. Options include any or a combination of the following:
 
