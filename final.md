@@ -3,6 +3,8 @@ layout: page
 title: Supply Chain Project
 ---
 
+![](mclellan_thingscomeapart.jpg)
+
 For your final project, you will select a specific digital device and trace the lifecycle of its manufacture, use, re-use, and disposal.  This is a very big task.  A single smartphone, for instance, contains over two hundred chemical compounds, and the scale of its production truly global: from rare-earth metal mines in Baotou, to data centers in Iowa, to grey markets in Jakarta, and electronics scrap yards in Delhi.  So, there are many different methods for going about this, many different pieces of the puzzle you can choose to focus on, and no two final projects will look alike. Options include any or a combination of the following:
 
 - Create a supply chain map for your device using [Sourcemap](http://www.sourcemap.com/).
@@ -11,22 +13,22 @@ For your final project, you will select a specific digital device and trace the 
 
 In addition to the above, you will write a paper of around 5-7 pages that situates your artifact within the contexts discussed in class.  I expect you to draw from the readings we considered, as well as secondary research from sources we did not cover.  The following resources will help get you started:
 
-#### videos & games
+### videos & games
 - [The Story of Electronics](http://storyofstuff.org/movies/story-of-electronics/) (brief documentary)
 - [Phone Story](http://www.phonestory.org/) — “follow your phone’s journey around the world and fight the market forces in a spiral of planned obsolescence”
 - [ToxiCity: life at Agbobloshie, the world's largest e-waste dump in Ghana](https://www.youtube.com/watch?v=mleQVO1Vd1I) (brief documentary)
 
-#### academic sites
+### academic sites
 
 - [Discard Studies: Social Studies of Waste, Pollution, and Externalities](https://discardstudies.com/)
 - [Supply Studies](https://supplystudies.com/) -- writing about logistics, supply chains, and global assemblies of assembly"
 
-#### industry & activism
+### industry & activism
 
 - [Good Electronics](https://goodelectronics.org/) — international network on human rights and sustainability in electronics
 - [Tantalum Investing News](http://investingnews.com/category/daily/resource-investing/critical-metals-investing/tantalum-investing/)
 
-#### books
+### books
 
 - David S. Abraham, [*The Elements of Power: Gadgets, Guns, and the Struggle for a Sustainable Future in the Rare Metal Age*](http://yalebooks.com/book/9780300196795/elements-power) (Yale University Press, 2015)
 - Todd McLellan, [*Things Come Apart: A Teardown Manual for Modern Living*](http://www.toddmclellan.com/thingscomeapar) [photobook] (Thames & Hudson, 2013)
