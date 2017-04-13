@@ -335,31 +335,34 @@ Andrew J. Hawkins, ["E-Waste Empire,"](http://www.theverge.com/2016/6/22/1199144
 
 **********************
 
-## Power
+## Politics
 
-### April 18: control 1
+### April 18: ethics
 
 **_(Final project proposal due by e-mail or in person)_**
 
-Bernard Harcourt, *Exposed: Desire and Disobedience in the Digital Age* (Cambridge: Harvard University Press, 2015), p. 1-28, 217-250.
+Alexis Shotwell, *Against Purity: Living Ethically in Compromised Times* (University of Minnesota Press, 2016), pp. 1-19, 107-135.
+
+- Complexity and Complicity: An Introduction to Constitutive Impurity
+- 4 Consuming Suffering: Eating, Energy, and Embodied Ethics
+
+### April 20: control
+
+Bernard Harcourt, *Exposed: Desire and Disobedience in the Digital Age* (Harvard University Press, 2015), p. 1-28
 
 - The Expository Society
-- 8 The Mortification of the Self
-- 9 The Steel Mesh
-
-### April 20: control 2
 
 Giorgio Agamben, *What is an Apparatus*? (Stanford Univ Press, 2009), p. 1-24.
 
-### April 25: publics 1
+### April 25: publics
 
 Danah Boyd, "White Flight in Networked Publics" in *Race After the Internet,* ed. Lisa Nakamura and Peter Chow-White (Routledge, 2011), p. 203-222.
 
-Curtis Marez, "Cesar Chavez, United Farm Workers, and the History of Star Wars," in *Race After the Internet,* ed. Lisa Nakamura and Peter Chow-White (Routledge, 2011), p. 85-108.
+Final project presentations
 
-### April 27: publics 2
+### April 27
 
-William Mazzarella, “The Myth of the Multitude, Or, Who’s Afraid of the Crowd?,” *Critical Inquiry* 36, no. 4 (2010): 697–727.
+Final project presentations, continued
 
 Acknowledgments
 ================
