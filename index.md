@@ -75,7 +75,6 @@ In addition to the above, you will write a paper of around 5-7 pages that situat
 
 - [Good Electronics](https://goodelectronics.org/) — international network on human rights and sustainability in electronics
 - [Tantalum Investing News](http://investingnews.com/category/daily/resource-investing/critical-metals-investing/tantalum-investing/)
-- [Sourcemap, Inc.](http://www.sourcemap.com/) -- supply chain mapping platform created at the MIT Media Lab in 2007
 
 #### books
 
