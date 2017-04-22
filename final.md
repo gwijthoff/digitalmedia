@@ -33,7 +33,7 @@ In addition to the above, you will write a **paper of 5-7 pages** that situates 
 
 ### books
 
-- David S. Abraham, [*The Elements of Power: Gadgets, Guns, and the Struggle for a Sustainable Future in the Rare Metal Age*](http://yalebooks.com/book/9780300196795/elements-power) (Yale University Press, 2015)
+- David S. Abraham, [*The Elements of Power: Gadgets, Guns, and the Struggle for a Sustainable Future in the Rare Metal Age*](https://courseworks.columbia.edu/access/content/group/CPLSW3770_001_2017_1/Abraham_2015_The_Elements_of_Power_-_Gadgets,_Guns,_and_the_Struggle_for_a_Sustainable_Future.pdf) (Yale University Press, 2015)
 - Todd McLellan, [*Things Come Apart: A Teardown Manual for Modern Living*](http://www.toddmclellan.com/thingscomeapar) [photobook] (Thames & Hudson, 2013)
 
 I ask that you submit a brief proposal of your project to me the week of our April 18th class.  The final project is due May 8.  You will also present on your artifact during the final two class sessions for around 5 minutes.
