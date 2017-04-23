@@ -330,11 +330,9 @@ Bernard Harcourt, [*Exposed: Desire and Disobedience in the Digital Age*](https:
 
 - The Expository Society
 
-Giorgio Agamben, *What is an Apparatus*? (Stanford Univ Press, 2009), p. 1-24.
-
 ### April 25: publics
 
-Danah Boyd, "White Flight in Networked Publics" in *Race After the Internet,* ed. Lisa Nakamura and Peter Chow-White (Routledge, 2011), p. 203-222.
+Danah Boyd, ["White Flight in Networked Publics"](http://www.danah.org/papers/2009/WhiteFlightDraft3.pdf) in *Race After the Internet,* ed. Lisa Nakamura and Peter Chow-White (Routledge, 2011), p. 203-222.
 
 Final project presentations
 

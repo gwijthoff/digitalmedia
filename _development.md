@@ -28,6 +28,7 @@ Three elements:
 - data detox throughout the class
   - https://myshadow.org/detox
   - http://femtechnet.org/csov/lock-down-your-digital-identity/
+    - also: [DIY Guide to Feminist Cybersecurity](https://hackblossom.org/cybersecurity/)
   - Keybase for PGP
 - imaginary device midterm
 - device supply/use mapping final
@@ -98,6 +99,7 @@ due March 10?
 http://zeitkunst.org/sites/default/files/teaching/CAMS218_SP15_TheoriesOfMediaSyllabus.pdf
 
 - write to Miriam Posner on her "device narrative" assignment for thoughts and updates since 2014. Is she still writing on tech supply chains?
+- The idea is to have them think about the resonance between the "attention economy" as it's experienced by users of digital devices, and the labor politics of the global supply chain needed to mine/refine/manufacture the over 200 chemical compounds that goes into a single smartphone, for instance.
 - Todd McLellan, *Things Come Apart: A Teardown Manual for Modern Living*
 - *Objects in Motion: Globalizing Technology (Artefacts: Studies in the History of Science and Technology)*, ed. Mollers and Dewalt
 - http://storyofstuff.org/movies/story-of-electronics/
